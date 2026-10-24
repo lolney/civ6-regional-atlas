@@ -1,0 +1,15 @@
+{
+  "static_checks": "57/57",
+  "native_roundtrip_equal_tables": 35,
+  "embedded_data_matches_native_preview": true,
+  "modern_native_map_unchanged": true,
+  "python_syntax": "pass",
+  "browser_checked": [
+    "Yosemite icefield",
+    "Bonneville expansion",
+    "modern comparison with preserved camera",
+    "exposed Bay and shelf",
+    "change coloring"
+  ],
+  "engine_tested": false
+}

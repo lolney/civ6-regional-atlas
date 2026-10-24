@@ -1,0 +1,19 @@
+# Sources for the Last Glacial Maximum alternate
+
+All lake levels and biome thresholds below are **authored scenario parameters**, not direct values extracted from a spatial paleoclimate model. Mapped data, literature-supported interpretations, and coarse-grid approximations are distinguished in RECONSTRUCTION.md.
+
+1. [USGS global LGM and sea-level overview](https://www.usgs.gov/faqs/how-does-present-glacier-extent-and-sea-level-compare-extent-glaciers-and-global-sea-level). Broad timing and substantially lower seas.
+2. [USGS San Francisco shelf, OFR 2015-1068 sheet 9](https://pubs.usgs.gov/of/2015/1068/pdf/ofr2015-1068_sheet9.pdf). Supports the approximately −125 m sea-level scenario and an exposed shelf west of modern San Francisco.
+3. [USGS/NPS Tioga glaciation, SIM 3414](https://www.usgs.gov/maps/extent-last-glacial-maximum-tioga-glaciation-yosemite-national-park-and-vicinity-california). Actual glacier-extent polygon used in Yosemite; the map summarizes maximum Tioga extent across an interval, rather than a single year's ice edge. [GIS download](https://pubs.usgs.gov/sim/3414/sim3414_gis.zip) is preserved in source_data/tioga_usgs_sim3414.zip.
+4. [USGS 1987 Tioga map](https://pubs.usgs.gov/publication/i1885). Supports expanded Lake Russell at approximately 6,800 ft during Tioga maximum; used as the ~2,073 m lake scenario.
+5. [NPS Santarosae and isolation](https://www.nps.gov/places/000/stop-3-san-miguel-island-tour.htm). Northern Channel Islands joined one another, while remaining separated from the mainland.
+6. [USGS Lahontan chronology, Benson & Thompson 1987](https://pubs.usgs.gov/publication/70015223). Supports a lower, partitioned Lahontan during the glacial interval, preceding the much larger later highstand. Older ages in this paper are radiocarbon ages: they must not be read as exact calendar 21 ka dates.
+7. [USGS Great Basin field guide, OFR 2015-1108](https://pubs.usgs.gov/of/2015/1108/pdf/ofr2015-1108.pdf). Pluvial lake chronology and alpine glaciation; maximum lake stages can postdate global LGM.
+8. [Mering et al., Quantifying the impacts of rainfall and evaporation on Lake Bonneville](https://doi.org/10.1126/sciadv.adw4951). Stansbury and later Bonneville chronology. The scenario's 1,450 m level is an intermediate transgressive estimate, not a claim that the later Provo stillstand existed at 21 ka.
+9. [USGS Death Valley lake history, OFR 99-153](https://pubs.usgs.gov/of/1999/ofr-99-0153/ofr-99-0153.pdf). Distinguishes the last-glacial lake from the larger penultimate lake; the scenario uses a conservative smaller Manly, not the older maximum shoreline.
+10. [USGS Quaternary Vegetation History](https://pubs.usgs.gov/dds/dds-43/VOL_II/VII_C04.PDF). Supports lower-elevation cold conifers and juniper woodland around the eastern Sierra during the last glacial interval.
+11. [USGS paleoclimate reconstruction, OFR 99-338](https://pubs.usgs.gov/of/1999/ofr-99-0338/p2.html). Supports cooler, effectively wetter Mojave/Great Basin environments, with regional variation rather than uniform forest.
+12. [USFS pinyon-juniper proceedings](https://research.fs.usda.gov/download/treesearch/50072.pdf). Helps distinguish southern low-elevation woodland expansion from northern cold steppe; woodlands need not consist of today's exact tree assemblages.
+13. [NPS Ice Age Floods](https://home.nps.gov/articles/000/ice-age-floods.htm). The Cordilleran lobes reached Washington, northern Idaho and Montana, north of this map's crop; mountain glaciers are the relevant local ice.
+
+Modern topography, bathymetry, Natural Earth, EPA ecoregions, NHD river data and native-map schema provenance are retained from the original project; see MODERN_SOURCE_DATA.md. Ecoregions provide regional zoning, not evidence of ancient vegetation boundaries. NLCD modern forest percentages are not used to label reconstructed forest cover.

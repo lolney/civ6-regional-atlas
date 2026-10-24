@@ -1,0 +1,143 @@
+{
+  "Map": [
+    [
+      "Default",
+      84,
+      54,
+      23,
+      18,
+      0,
+      0,
+      "MAPSIZE_STANDARD"
+    ]
+  ],
+  "MapAttributes": [
+    [
+      "MapScript",
+      "WorldBuilderMap.lua"
+    ],
+    [
+      "Ruleset",
+      "RULESET_EXPANSION_2"
+    ]
+  ],
+  "PlotAttributes": [],
+  "PlotCliffs": [],
+  "PlotRoutes": [],
+  "PlotOwners": [],
+  "RevealedPlots": [],
+  "StartPositions": [],
+  "Units": [],
+  "UnitAttributes": [],
+  "Cities": [],
+  "CityAttributes": [],
+  "Districts": [],
+  "DistrictAttributes": [],
+  "Buildings": [],
+  "Players": [],
+  "PlayerAttributes": [],
+  "ModComponents": [],
+  "ModComponent_Properties": [],
+  "ModComponent_Items": [],
+  "ModSettings": [
+    [
+      "WorldBuilder",
+      "WORLDBUILDER"
+    ]
+  ],
+  "ModSettings_Items": [
+    [
+      "WorldBuilder",
+      "WORLDBUILDER",
+      "File",
+      "[self]"
+    ]
+  ],
+  "GameConfig": [],
+  "NamedRiverPlot": [],
+  "NamedRiver": [],
+  "MetaData": [
+    [
+      "MetaDataVersion",
+      "1"
+    ],
+    [
+      "AppVersion",
+      "1.0.12.43 (899997)"
+    ],
+    [
+      "DisplayName",
+      "Hawai\u02bbi \u2014 Modern (Gathering Storm)"
+    ],
+    [
+      "ID",
+      "C6418565-88FB-534B-8E7F-276AD5A4DAFA"
+    ],
+    [
+      "IsMod",
+      "1"
+    ],
+    [
+      "LastUpdated",
+      "1789948800"
+    ]
+  ],
+  "ModProperties": [
+    [
+      "ID",
+      "C6418565-88FB-534B-8E7F-276AD5A4DAFA"
+    ],
+    [
+      "Version",
+      "1"
+    ],
+    [
+      "DBVersion",
+      "3"
+    ],
+    [
+      "Name",
+      "LOC_HIC641856588FB534B8E7F276AD5A4DAFA_NAME"
+    ],
+    [
+      "Type",
+      "WorldBuilderMap"
+    ],
+    [
+      "Description",
+      "LOC_HIC641856588FB534B8E7F276AD5A4DAFA_DESCRIPTION"
+    ]
+  ],
+  "ModSettings_Properties": [
+    [
+      "WorldBuilder",
+      "WORLDBUILDER",
+      "Name",
+      "LOC_HIC641856588FB534B8E7F276AD5A4DAFA_NAME"
+    ],
+    [
+      "WorldBuilder",
+      "WORLDBUILDER",
+      "Description",
+      "LOC_HIC641856588FB534B8E7F276AD5A4DAFA_DESCRIPTION"
+    ]
+  ],
+  "ModText": [
+    [
+      "en_US",
+      "LOC_HIC641856588FB534B8E7F276AD5A4DAFA_NAME",
+      "Hawai\u02bbi \u2014 Modern (Gathering Storm)"
+    ],
+    [
+      "en_US",
+      "LOC_HIC641856588FB534B8E7F276AD5A4DAFA_DESCRIPTION",
+      "84 \u00d7 54; main Hawaiian Islands at 9 km hex spacing. Modern coastline and rainfall-based biomes."
+    ]
+  ],
+  "ModDependencies": [
+    [
+      "4873eb62-8ccc-4574-b784-dda455e74e68",
+      "{\"LOC_EXPANSION2_MOD_TITLE\":[]}"
+    ]
+  ]
+}

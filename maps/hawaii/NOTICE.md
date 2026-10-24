@@ -1,0 +1,3 @@
+# Attribution and licensing
+
+The WorldBuilder SQL schema derives from je-suis-tm’s Apache-2.0 Civilization VI modding reference; see SOURCES.md and the accompanying license. Original reference map content was discarded. The Hawaii generator, validator, inspector and pictograms are original project work or adapted from this project’s California tools, and may be used under Apache-2.0. Underlying geographic datasets retain their own terms and attribution requirements. Natural Earth is public domain; USGS, NOAA, Mapzen/Tilezen and the University of Hawaiʻi Rainfall Atlas are credited in SOURCES.md. No game artwork is extracted. Civilization VI and related names belong to their respective owners. This is an unofficial map.

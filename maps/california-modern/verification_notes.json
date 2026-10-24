@@ -1,0 +1,42 @@
+{
+  "engine_tested": false,
+  "static_validation": "73/73",
+  "native_json_agreement": true,
+  "all_35_tables_equal_after_roundtrip": true,
+  "python_ast": "pass",
+  "viewer_javascript_syntax": "pass",
+  "embedded_viewer_data_equals_json": true,
+  "browser_visual_checks": [
+    "Lassen mountain",
+    "Big Sur forest mosaic",
+    "southern coastal river reduction"
+  ],
+  "stats": {
+    "tiles": 7040,
+    "land": 4850,
+    "water": 2190,
+    "mountains": 241,
+    "hills": 2681,
+    "forests": 1018,
+    "floodplains": 320,
+    "river_edges": 1236,
+    "river_names": 72,
+    "resource_tiles": 1105,
+    "goody_huts": 61,
+    "median_river_offset_km": 3.03,
+    "max_river_offset_km": 18.12,
+    "california_polygon_contained": true,
+    "iconic_resource_tiles": 161
+  },
+  "southern_coastal_rivers": {
+    "bbox": [
+      -120.7,
+      32.5,
+      -116.4,
+      34.85
+    ],
+    "before_edges": 113,
+    "after_edges": 56,
+    "method": "Whole smaller coastal systems omitted; upstream leaves pruned; source overlay retained"
+  }
+}

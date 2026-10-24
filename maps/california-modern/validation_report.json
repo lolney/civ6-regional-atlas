@@ -1,0 +1,834 @@
+{
+  "status": "PASS",
+  "file": "California_GatheringStorm.Civ6Map",
+  "sha256": "98f7ffc5d1b5c55f4c1e93f97eedd762fee71c5bde766b61b9b2e47b8b18fb07",
+  "engine_tested": false,
+  "checks_passed": 73,
+  "checks_total": 73,
+  "errors": [],
+  "checks": [
+    {
+      "check": "SQLite integrity",
+      "pass": true,
+      "detail": [
+        "ok"
+      ]
+    },
+    {
+      "check": "SQLite foreign_key_check",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "WorldBuilder tables present",
+      "pass": true,
+      "detail": {
+        "expected": 35,
+        "actual": 35
+      }
+    },
+    {
+      "check": "WorldBuilder column schema",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Dimensions and Huge classification",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Regional non-wrapping map",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Dense complete zero-based plot IDs",
+      "pass": true,
+      "detail": 7040
+    },
+    {
+      "check": "Known terrain and continent identifiers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Mountains are impassable; other terrain passable",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Plot child rows reference valid plots",
+      "pass": true,
+      "detail": {
+        "PlotFeatures": [],
+        "PlotResources": [],
+        "PlotRivers": [],
+        "PlotCliffs": [],
+        "PlotImprovements": []
+      }
+    },
+    {
+      "check": "Legal feature terrains",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Native resource identifiers and positive quantities",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "All procedural resource spawn exceptions explicitly documented",
+      "pass": true,
+      "detail": {
+        "608": {
+          "plot": 608,
+          "resource": "TURTLES",
+          "terrain": "COAST",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. San Diego coastal green turtles"
+        },
+        "1090": {
+          "plot": 1090,
+          "resource": "TOBACCO",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Southern California native tobacco"
+        },
+        "1323": {
+          "plot": 1323,
+          "resource": "OIL",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Wilmington oil field"
+        },
+        "1324": {
+          "plot": 1324,
+          "resource": "OIL",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Long Beach / Signal Hill oil field"
+        },
+        "1344": {
+          "plot": 1344,
+          "resource": "COTTON",
+          "terrain": "DESERT",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Palo Verde Valley cotton"
+        },
+        "1562": {
+          "plot": 1562,
+          "resource": "OIL",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Los Angeles City oil field"
+        },
+        "1793": {
+          "plot": 1793,
+          "resource": "COFFEE",
+          "terrain": "PLAINS_HILLS",
+          "feature": "FOREST",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Goleta / Santa Barbara coffee"
+        },
+        "2030": {
+          "plot": 2030,
+          "resource": "OIL",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Santa Maria / Cat Canyon oil fields"
+        },
+        "2195": {
+          "plot": 2195,
+          "resource": "OIL",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Midway-Sunset oil field / Taft"
+        },
+        "2276": {
+          "plot": 2276,
+          "resource": "OIL",
+          "terrain": "PLAINS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Elk Hills oil field"
+        },
+        "2434": {
+          "plot": 2434,
+          "resource": "OIL",
+          "terrain": "PLAINS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. South Belridge oil field"
+        },
+        "2438": {
+          "plot": 2438,
+          "resource": "OIL",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Kern River oil field / Bakersfield"
+        },
+        "2513": {
+          "plot": 2513,
+          "resource": "OIL",
+          "terrain": "PLAINS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Lost Hills oil field"
+        },
+        "2744": {
+          "plot": 2744,
+          "resource": "JADE",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Jade Cove / Big Sur nephrite"
+        },
+        "2833": {
+          "plot": 2833,
+          "resource": "COTTON",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Kings County cotton"
+        },
+        "2834": {
+          "plot": 2834,
+          "resource": "COTTON",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Kings County cotton"
+        },
+        "2910": {
+          "plot": 2910,
+          "resource": "OIL",
+          "terrain": "PLAINS_HILLS",
+          "feature": "FOREST",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Coalinga oil field"
+        },
+        "2916": {
+          "plot": 2916,
+          "resource": "COTTON",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Tulare County cotton"
+        },
+        "2917": {
+          "plot": 2917,
+          "resource": "OLIVES",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Lindsay / Tulare olive groves"
+        },
+        "3068": {
+          "plot": 3068,
+          "resource": "MERCURY",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. New Idria quicksilver district"
+        },
+        "3150": {
+          "plot": 3150,
+          "resource": "COTTON",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Fresno County cotton"
+        },
+        "3151": {
+          "plot": 3151,
+          "resource": "COTTON",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Fresno County cotton"
+        },
+        "3468": {
+          "plot": 3468,
+          "resource": "COTTON",
+          "terrain": "PLAINS",
+          "feature": "FLOODPLAINS_PLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Merced County cotton"
+        },
+        "3542": {
+          "plot": 3542,
+          "resource": "MERCURY",
+          "terrain": "GRASS_HILLS",
+          "feature": "FOREST",
+          "reason": "Authored geographic resource; outside procedural spawn filters. New Almaden quicksilver district"
+        },
+        "4025": {
+          "plot": 4025,
+          "resource": "OLIVES",
+          "terrain": "GRASS",
+          "feature": "FLOODPLAINS_GRASSLAND",
+          "reason": "Authored geographic resource; outside procedural spawn filters. San Joaquin County olive groves"
+        },
+        "4185": {
+          "plot": 4185,
+          "resource": "WINE",
+          "terrain": "GRASS",
+          "feature": "FLOODPLAINS_GRASSLAND",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Lodi"
+        },
+        "4419": {
+          "plot": 4419,
+          "resource": "WINE",
+          "terrain": "GRASS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Napa Valley"
+        },
+        "4587": {
+          "plot": 4587,
+          "resource": "TEA",
+          "terrain": "GRASS_HILLS",
+          "feature": "FOREST",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Wakamatsu historic tea colony"
+        },
+        "4737": {
+          "plot": 4737,
+          "resource": "MERCURY",
+          "terrain": "GRASS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Clear Lake quicksilver district"
+        },
+        "4756": {
+          "plot": 4756,
+          "resource": "COPPER",
+          "terrain": "DESERT",
+          "feature": "FLOODPLAINS",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Yerington copper district"
+        },
+        "4994": {
+          "plot": 4994,
+          "resource": "SILVER",
+          "terrain": "PLAINS_HILLS",
+          "feature": "",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Comstock Lode / Virginia City"
+        },
+        "5021": {
+          "plot": 5021,
+          "resource": "COPPER",
+          "terrain": "PLAINS",
+          "feature": "FOREST",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Ely / Robinson copper district"
+        },
+        "5220": {
+          "plot": 5220,
+          "resource": "OLIVES",
+          "terrain": "GRASS",
+          "feature": "FLOODPLAINS_GRASSLAND",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Orland / Glenn olive groves"
+        },
+        "5380": {
+          "plot": 5380,
+          "resource": "OLIVES",
+          "terrain": "GRASS",
+          "feature": "FLOODPLAINS_GRASSLAND",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Corning / Tehama olive groves"
+        },
+        "5460": {
+          "plot": 5460,
+          "resource": "OLIVES",
+          "terrain": "GRASS",
+          "feature": "FLOODPLAINS_GRASSLAND",
+          "reason": "Authored geographic resource; outside procedural spawn filters. Corning / Tehama olive groves"
+        }
+      }
+    },
+    {
+      "check": "Authored deposits use passable improvement domains",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All seven strategic resources represented",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Legal river flags, directions and bank ownership",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Unique owned river edges",
+      "pass": true,
+      "detail": 1236
+    },
+    {
+      "check": "River flow converges without forked outflows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No directed river cycles",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "San Francisco and San Pablo Bays connect to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Gathering Storm ruleset and only intended dependency",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "WorldBuilder map loader and self-packaging metadata",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No inherited scenario players, cities or units",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Tribal villages on free passable land",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Preview terrain/feature/resource rows match native file",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Preview river edges match native file",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Neighboring distinct watersheds remain separate",
+      "pass": true,
+      "detail": [
+        [
+          "Truckee",
+          "Sacramento"
+        ],
+        [
+          "Truckee",
+          "American"
+        ],
+        [
+          "Mad",
+          "Eel"
+        ],
+        [
+          "Big",
+          "Noyo"
+        ],
+        [
+          "Russian",
+          "Big"
+        ],
+        [
+          "Los Angeles",
+          "San Gabriel"
+        ],
+        [
+          "Sweetwater",
+          "Otay"
+        ],
+        [
+          "Otay",
+          "Tijuana"
+        ],
+        [
+          "San Luis Rey",
+          "Santa Margarita"
+        ],
+        [
+          "Carson",
+          "Walker"
+        ],
+        [
+          "Carson",
+          "Truckee"
+        ],
+        [
+          "East Fork Carson",
+          "West Walker"
+        ],
+        [
+          "New",
+          "Alamo"
+        ]
+      ]
+    },
+    {
+      "check": "San Francisco Peninsula is attached to mainland",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Owens Valley floor is flat and continuously traversable",
+      "pass": true,
+      "detail": {
+        "tiles": 11,
+        "changed": 9
+      }
+    },
+    {
+      "check": "Salinas Valley floor is flat and continuously traversable",
+      "pass": true,
+      "detail": {
+        "tiles": 9,
+        "changed": 7
+      }
+    },
+    {
+      "check": "Smith Valley floor is flat and continuously traversable",
+      "pass": true,
+      "detail": {
+        "tiles": 2,
+        "changed": 1
+      }
+    },
+    {
+      "check": "Mason Valley floor is flat and continuously traversable",
+      "pass": true,
+      "detail": {
+        "tiles": 5,
+        "changed": 3
+      }
+    },
+    {
+      "check": "Carson Valley floor is flat and continuously traversable",
+      "pass": true,
+      "detail": {
+        "tiles": 4,
+        "changed": 3
+      }
+    },
+    {
+      "check": "Death Valley floor is flat and continuously traversable",
+      "pass": true,
+      "detail": {
+        "tiles": 10,
+        "changed": 6
+      }
+    },
+    {
+      "check": "Sacramento main stem reaches Pacific through the Bay",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "San Joaquin main stem reaches Pacific through the Bay",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Lake Mead is one connected water body",
+      "pass": true,
+      "detail": 8
+    },
+    {
+      "check": "Colorado continuous through reservoirs to Gulf, except real crop exits",
+      "pass": true,
+      "detail": {
+        "connected_nodes": 106,
+        "outside_crop_endpoints": [
+          [
+            [
+              159,
+              119
+            ],
+            [
+              159,
+              125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "check": "Walker river network is continuous to Walker",
+      "pass": true,
+      "detail": {
+        "nodes": 37,
+        "connected_nodes": 37
+      }
+    },
+    {
+      "check": "Carson river network is continuous to Lahontan Reservoir",
+      "pass": true,
+      "detail": {
+        "nodes": 32,
+        "connected_nodes": 32
+      }
+    },
+    {
+      "check": "New river network is continuous to Salton Sea",
+      "pass": true,
+      "detail": {
+        "nodes": 11,
+        "connected_nodes": 11
+      }
+    },
+    {
+      "check": "Alamo river network is continuous to Salton Sea",
+      "pass": true,
+      "detail": {
+        "nodes": 10,
+        "connected_nodes": 10
+      }
+    },
+    {
+      "check": "Tahoe has no desert shoreline and Carson does not drain into it",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Four mapped mountain cells west and southwest of Tahoe",
+      "pass": true,
+      "detail": [
+        4671,
+        4751,
+        4831,
+        4910
+      ]
+    },
+    {
+      "check": "Imperial Valley has connected agricultural floodplains",
+      "pass": true,
+      "detail": 16
+    },
+    {
+      "check": "Northern Nevada agricultural valleys have riverbank floodplains",
+      "pass": true,
+      "detail": 54
+    },
+    {
+      "check": "Entire sourced California polygon fits the map",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Every retained river segment routed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Median river-edge displacement under half a hex",
+      "pass": true,
+      "detail": 3.03
+    },
+    {
+      "check": "Maximum river-edge displacement under 1.5 hexes",
+      "pass": true,
+      "detail": 18.12
+    },
+    {
+      "check": "Twelve generic balanced suggestions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Suggested starts have expansion space and separation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Suggested starts passable and on land",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Suggested starts are at least six hexes inside every edge",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Floodplains are flat and touch an actual river edge",
+      "pass": true,
+      "detail": 320
+    },
+    {
+      "check": "Floodplain groups have at least three connected tiles",
+      "pass": true,
+      "detail": [
+        130,
+        3,
+        11,
+        9,
+        26,
+        3,
+        8,
+        5,
+        4,
+        17,
+        13,
+        27,
+        10,
+        9,
+        12,
+        4,
+        9,
+        11,
+        4,
+        5
+      ]
+    },
+    {
+      "check": "Named resource districts actually present in native map",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Gold and Gold Country proxies omitted as requested",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Inspector catalog includes all 44 standard Gathering Storm map resources",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Every resource count agrees between native map and inspector",
+      "pass": true,
+      "detail": {
+        "ALUMINUM": 39,
+        "AMBER": 0,
+        "BANANAS": 0,
+        "CATTLE": 20,
+        "CITRUS": 14,
+        "COAL": 40,
+        "COCOA": 0,
+        "COFFEE": 1,
+        "COPPER": 98,
+        "COTTON": 19,
+        "CRABS": 13,
+        "DEER": 157,
+        "DIAMONDS": 1,
+        "DYES": 3,
+        "FISH": 33,
+        "FURS": 18,
+        "GYPSUM": 40,
+        "HORSES": 21,
+        "INCENSE": 3,
+        "IRON": 63,
+        "IVORY": 0,
+        "JADE": 1,
+        "MARBLE": 10,
+        "MERCURY": 3,
+        "NITER": 44,
+        "OIL": 16,
+        "OLIVES": 10,
+        "PEARLS": 0,
+        "RICE": 19,
+        "SALT": 92,
+        "SHEEP": 124,
+        "SILK": 1,
+        "SILVER": 31,
+        "SPICES": 3,
+        "STONE": 6,
+        "SUGAR": 4,
+        "TEA": 1,
+        "TOBACCO": 3,
+        "TRUFFLES": 51,
+        "TURTLES": 1,
+        "URANIUM": 28,
+        "WHALES": 4,
+        "WHEAT": 53,
+        "WINE": 17
+      }
+    },
+    {
+      "check": "Salt is concentrated in named flat western basins",
+      "pass": true,
+      "detail": {
+        "districts": 17,
+        "anchored_salt_tiles": 45,
+        "total_salt_tiles": 92
+      }
+    },
+    {
+      "check": "Low-relief Basin and Range valley centers remain flat",
+      "pass": true,
+      "detail": 1401
+    },
+    {
+      "check": "Southern coastal river edges reduced by about half",
+      "pass": true,
+      "detail": {
+        "before": 113,
+        "after": 56
+      }
+    },
+    {
+      "check": "Santa Ynez retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Santa Clara retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Los Angeles retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Santa Ana retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "San Luis Rey retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "San Diego retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Tijuana retained lower course remains connected to Pacific",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Lassen Peak is a mountain",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Big Sur contains mapped forest mosaic",
+      "pass": true,
+      "detail": {
+        "forest_tiles": 8
+      }
+    },
+    {
+      "check": "Forest reference percentages bounded",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "warnings": [
+    "35 explicitly authored resource placements lie outside procedural spawn filters; native identifiers and broad improvement domains were checked, but the map still needs engine testing.",
+    "Engine loading, automatic player placement, AI, dams and disasters have not been tested.",
+    "Floodplain features are present, but flood events and dam eligibility require in-game testing; static SQLite checks cannot validate engine river metadata.",
+    "Source geometry is simplified at 15.5 km per hex. Tiny islands, lakes and Bay narrows are enlarged; intermittent channels are shown only in the reference overlay.",
+    "Coarse-grid flow is oriented toward low drainage endpoints; it is not a hydraulic simulation."
+  ],
+  "stats": {
+    "tiles": 7040,
+    "land": 4850,
+    "water": 2190,
+    "mountains": 241,
+    "hills": 2681,
+    "forests": 1018,
+    "floodplains": 320,
+    "river_edges": 1236,
+    "river_names": 72,
+    "resource_tiles": 1105,
+    "goody_huts": 61,
+    "median_river_offset_km": 3.03,
+    "max_river_offset_km": 18.12,
+    "california_polygon_contained": true,
+    "iconic_resource_tiles": 161
+  }
+}

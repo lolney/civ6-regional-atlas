@@ -1,0 +1,488 @@
+{
+  "passed": true,
+  "checks_passed": 89,
+  "checks_total": 89,
+  "scope": "Static SQLite/schema/rules/topology and native-to-viewer comparison. Not an in-game load test.",
+  "checks": [
+    {
+      "check": "modern: SQLite integrity",
+      "passed": true
+    },
+    {
+      "check": "modern: 35-table WorldBuilder schema matches reference",
+      "passed": true
+    },
+    {
+      "check": "modern: Standard 84 × 54 map",
+      "passed": true
+    },
+    {
+      "check": "modern: Gathering Storm loader and dependency",
+      "passed": true
+    },
+    {
+      "check": "modern: Independent Hawaii package identity",
+      "passed": true
+    },
+    {
+      "check": "modern: No inherited cities, units, players, or forced starts",
+      "passed": true
+    },
+    {
+      "check": "modern: Contiguous 4536 plot IDs",
+      "passed": true
+    },
+    {
+      "check": "modern: Known terrain and Oceania continent",
+      "passed": true
+    },
+    {
+      "check": "modern: Impassability exactly matches mountain terrain",
+      "passed": true
+    },
+    {
+      "check": "modern: Features legal on native terrain",
+      "passed": true
+    },
+    {
+      "check": "modern: Resources obey native terrain/feature placement rules",
+      "passed": true
+    },
+    {
+      "check": "modern: Native plots exactly match inspector",
+      "passed": true
+    },
+    {
+      "check": "modern: Native river flags/flows exactly match inspector",
+      "passed": true
+    },
+    {
+      "check": "modern: No duplicate river ownership",
+      "passed": true
+    },
+    {
+      "check": "modern: Rivers only on land–land, non-mountain edges",
+      "passed": true
+    },
+    {
+      "check": "modern: Legal river flow directions",
+      "passed": true
+    },
+    {
+      "check": "modern: River rendered endpoints match native hex geometry",
+      "passed": true
+    },
+    {
+      "check": "modern: No split downstream flow",
+      "passed": true
+    },
+    {
+      "check": "modern: Every named course contiguous and acyclic",
+      "passed": true
+    },
+    {
+      "check": "modern: Every named river reaches a coast vertex",
+      "passed": true
+    },
+    {
+      "check": "modern: Major Wailuku, Wailua, Waimea, and Hanalei rivers included",
+      "passed": true
+    },
+    {
+      "check": "modern: Floodplains only on flat river-adjacent terrain",
+      "passed": true
+    },
+    {
+      "check": "modern: Reefs in coast and no sea ice",
+      "passed": true
+    },
+    {
+      "check": "modern: Every island coast reachable by coast-only navigation",
+      "passed": true
+    },
+    {
+      "check": "modern: Navigation corridors convert only ocean water",
+      "passed": true
+    },
+    {
+      "check": "modern: Expected separate island landmasses",
+      "passed": true,
+      "detail": {
+        "landmasses": 8,
+        "sizes": [
+          155,
+          29,
+          26,
+          22,
+          10,
+          6,
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "check": "modern: All eight main islands represented",
+      "passed": true
+    },
+    {
+      "check": "modern: Maui Nui connectivity appropriate to epoch",
+      "passed": true
+    },
+    {
+      "check": "modern: Kahoʻolawe and Niʻihau remain separate",
+      "passed": true
+    },
+    {
+      "check": "modern: No land clipped by rectangular boundary",
+      "passed": true
+    },
+    {
+      "check": "modern: Mauna Kea mountain and epoch-specific ice",
+      "passed": true
+    },
+    {
+      "check": "modern: Mauna Loa not asserted as confirmed glacier",
+      "passed": true
+    },
+    {
+      "check": "modern: Four native volcanic landmarks",
+      "passed": true
+    },
+    {
+      "check": "modern: Six safe, separated suggested starts",
+      "passed": true
+    },
+    {
+      "check": "modern: Start food and luxury access",
+      "passed": true,
+      "detail": [
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 21,
+          "passable_ring3": 19,
+          "food_resources_ring3": 7,
+          "luxury_types_ring3": 5,
+          "score": 61.5
+        },
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 21,
+          "passable_ring3": 22,
+          "food_resources_ring3": 5,
+          "luxury_types_ring3": 7,
+          "score": 54.0
+        },
+        {
+          "fresh_water": false,
+          "nearest_start_hexes": 20,
+          "passable_ring3": 17,
+          "food_resources_ring3": 11,
+          "luxury_types_ring3": 4,
+          "score": 55.5
+        },
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 9,
+          "passable_ring3": 32,
+          "food_resources_ring3": 5,
+          "luxury_types_ring3": 4,
+          "score": 65.7
+        },
+        {
+          "fresh_water": false,
+          "nearest_start_hexes": 7,
+          "passable_ring3": 24,
+          "food_resources_ring3": 9,
+          "luxury_types_ring3": 2,
+          "score": 58.8
+        },
+        {
+          "fresh_water": false,
+          "nearest_start_hexes": 7,
+          "passable_ring3": 22,
+          "food_resources_ring3": 11,
+          "luxury_types_ring3": 3,
+          "score": 54.8
+        }
+      ]
+    },
+    {
+      "check": "modern: Documented resource audit placements retained",
+      "passed": true
+    },
+    {
+      "check": "modern: Cattle and twelve other audited types represented",
+      "passed": true
+    },
+    {
+      "check": "modern: No fabricated oil, coal, uranium deposits",
+      "passed": true
+    },
+    {
+      "check": "modern: No invented pluvial lakes",
+      "passed": true
+    },
+    {
+      "check": "modern: Resource catalog includes absent standard resources",
+      "passed": true
+    },
+    {
+      "check": "modern: Statistics match contents",
+      "passed": true
+    },
+    {
+      "check": "lgm: SQLite integrity",
+      "passed": true
+    },
+    {
+      "check": "lgm: 35-table WorldBuilder schema matches reference",
+      "passed": true
+    },
+    {
+      "check": "lgm: Standard 84 × 54 map",
+      "passed": true
+    },
+    {
+      "check": "lgm: Gathering Storm loader and dependency",
+      "passed": true
+    },
+    {
+      "check": "lgm: Independent Hawaii package identity",
+      "passed": true
+    },
+    {
+      "check": "lgm: No inherited cities, units, players, or forced starts",
+      "passed": true
+    },
+    {
+      "check": "lgm: Contiguous 4536 plot IDs",
+      "passed": true
+    },
+    {
+      "check": "lgm: Known terrain and Oceania continent",
+      "passed": true
+    },
+    {
+      "check": "lgm: Impassability exactly matches mountain terrain",
+      "passed": true
+    },
+    {
+      "check": "lgm: Features legal on native terrain",
+      "passed": true
+    },
+    {
+      "check": "lgm: Resources obey native terrain/feature placement rules",
+      "passed": true
+    },
+    {
+      "check": "lgm: Native plots exactly match inspector",
+      "passed": true
+    },
+    {
+      "check": "lgm: Native river flags/flows exactly match inspector",
+      "passed": true
+    },
+    {
+      "check": "lgm: No duplicate river ownership",
+      "passed": true
+    },
+    {
+      "check": "lgm: Rivers only on land–land, non-mountain edges",
+      "passed": true
+    },
+    {
+      "check": "lgm: Legal river flow directions",
+      "passed": true
+    },
+    {
+      "check": "lgm: River rendered endpoints match native hex geometry",
+      "passed": true
+    },
+    {
+      "check": "lgm: No split downstream flow",
+      "passed": true
+    },
+    {
+      "check": "lgm: Every named course contiguous and acyclic",
+      "passed": true
+    },
+    {
+      "check": "lgm: Every named river reaches a coast vertex",
+      "passed": true
+    },
+    {
+      "check": "lgm: Major Wailuku, Wailua, Waimea, and Hanalei rivers included",
+      "passed": true
+    },
+    {
+      "check": "lgm: Floodplains only on flat river-adjacent terrain",
+      "passed": true
+    },
+    {
+      "check": "lgm: Reefs in coast and no sea ice",
+      "passed": true
+    },
+    {
+      "check": "lgm: Every island coast reachable by coast-only navigation",
+      "passed": true
+    },
+    {
+      "check": "lgm: Navigation corridors convert only ocean water",
+      "passed": true
+    },
+    {
+      "check": "lgm: Expected separate island landmasses",
+      "passed": true,
+      "detail": {
+        "landmasses": 6,
+        "sizes": [
+          163,
+          86,
+          37,
+          29,
+          6,
+          3
+        ]
+      }
+    },
+    {
+      "check": "lgm: All eight main islands represented",
+      "passed": true
+    },
+    {
+      "check": "lgm: Maui Nui connectivity appropriate to epoch",
+      "passed": true
+    },
+    {
+      "check": "lgm: Kahoʻolawe and Niʻihau remain separate",
+      "passed": true
+    },
+    {
+      "check": "lgm: No land clipped by rectangular boundary",
+      "passed": true
+    },
+    {
+      "check": "lgm: Mauna Kea mountain and epoch-specific ice",
+      "passed": true
+    },
+    {
+      "check": "lgm: Mauna Loa not asserted as confirmed glacier",
+      "passed": true
+    },
+    {
+      "check": "lgm: Four native volcanic landmarks",
+      "passed": true
+    },
+    {
+      "check": "lgm: Six safe, separated suggested starts",
+      "passed": true
+    },
+    {
+      "check": "lgm: Start food and luxury access",
+      "passed": true,
+      "detail": [
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 21,
+          "passable_ring3": 25,
+          "food_resources_ring3": 9,
+          "luxury_types_ring3": 3,
+          "score": 67.5
+        },
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 21,
+          "passable_ring3": 26,
+          "food_resources_ring3": 10,
+          "luxury_types_ring3": 8,
+          "score": 67.5
+        },
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 20,
+          "passable_ring3": 25,
+          "food_resources_ring3": 7,
+          "luxury_types_ring3": 6,
+          "score": 56.0
+        },
+        {
+          "fresh_water": true,
+          "nearest_start_hexes": 9,
+          "passable_ring3": 35,
+          "food_resources_ring3": 4,
+          "luxury_types_ring3": 3,
+          "score": 65.7
+        },
+        {
+          "fresh_water": false,
+          "nearest_start_hexes": 7,
+          "passable_ring3": 24,
+          "food_resources_ring3": 9,
+          "luxury_types_ring3": 2,
+          "score": 58.8
+        },
+        {
+          "fresh_water": false,
+          "nearest_start_hexes": 7,
+          "passable_ring3": 22,
+          "food_resources_ring3": 12,
+          "luxury_types_ring3": 2,
+          "score": 57.8
+        }
+      ]
+    },
+    {
+      "check": "lgm: Documented resource audit placements retained",
+      "passed": true
+    },
+    {
+      "check": "lgm: Cattle and twelve other audited types represented",
+      "passed": true
+    },
+    {
+      "check": "lgm: No fabricated oil, coal, uranium deposits",
+      "passed": true
+    },
+    {
+      "check": "lgm: No invented pluvial lakes",
+      "passed": true
+    },
+    {
+      "check": "lgm: Resource catalog includes absent standard resources",
+      "passed": true
+    },
+    {
+      "check": "lgm: Statistics match contents",
+      "passed": true
+    },
+    {
+      "check": "Different map identities",
+      "passed": true
+    },
+    {
+      "check": "LGM land contains all modern land",
+      "passed": true
+    },
+    {
+      "check": "LGM exposed seabed count matches pairwise comparison",
+      "passed": true
+    },
+    {
+      "check": "Cold climate reduces lowland rainforest footprint",
+      "passed": true
+    },
+    {
+      "check": "lgm: offline embedded dataset equals editable JSON",
+      "passed": true
+    },
+    {
+      "check": "modern: offline embedded dataset equals editable JSON",
+      "passed": true
+    },
+    {
+      "check": "Inspector has no external scripts or assets",
+      "passed": true
+    }
+  ]
+}

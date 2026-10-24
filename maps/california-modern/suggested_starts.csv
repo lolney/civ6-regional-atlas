@@ -1,0 +1,13 @@
+start,plot_id,x,y,latitude,longitude,region,freshwater,nearest_start_hexes,fertility_estimate,food_resources_within3,luxury_types_within3
+Start 01,6535,55,81,41.56413,-115.68528,Central Basin and Range,True,23,75.3,3,3
+Start 02,6428,28,80,41.51456,-120.78967,Eastern Cascades Slopes and Foothills,True,14,78.4,3,1
+Start 03,6014,14,75,40.8695,-123.26441,Klamath Mountains/California High North Coast Range,True,16,89.8,4,3
+Start 04,5310,30,66,39.82366,-120.40907,Central Basin and Range,True,14,84.2,5,2
+Start 05,5111,71,63,39.258,-112.9391,Central Basin and Range,True,25,66.8,3,2
+Start 06,4655,15,58,38.81885,-123.08455,Central California Foothills and Coastal Mountains,True,16,84.3,4,4
+Start 07,4687,47,58,38.82943,-117.36491,Central Basin and Range,True,18,76.9,3,2
+Start 08,4192,32,52,38.13345,-120.04569,Sierra Nevada,True,14,77.5,2,1
+Start 09,3382,22,42,36.91243,-121.78716,Central California Foothills and Coastal Mountains,True,15,79.1,5,3
+Start 10,3113,73,38,36.2317,-112.95897,Arizona/New Mexico Plateau,True,25,67.0,5,1
+Start 11,2998,38,37,36.31706,-118.92103,Central California Foothills and Coastal Mountains,True,15,71.5,5,4
+Start 12,1487,47,18,33.99826,-117.52642,Southern California/Northern Baja Coast,True,19,73.7,7,2

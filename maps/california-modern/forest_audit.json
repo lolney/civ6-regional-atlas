@@ -1,0 +1,2010 @@
+{
+  "source": "NLCD 2021 Land Cover L48, sampled WMS rendering",
+  "regions": [
+    {
+      "region": "Big Sur / Santa Lucia",
+      "bbox": [
+        -122,
+        35.8,
+        -121.25,
+        36.6
+      ],
+      "land_tiles": 19,
+      "forest_tiles": 8,
+      "added_forest_tiles": 7
+    },
+    {
+      "region": "Santa Cruz Mountains",
+      "bbox": [
+        -122.5,
+        36.9,
+        -121.6,
+        37.5
+      ],
+      "land_tiles": 20,
+      "forest_tiles": 12,
+      "added_forest_tiles": 3
+    },
+    {
+      "region": "North Coast / Klamath",
+      "bbox": [
+        -124.6,
+        39,
+        -122,
+        42
+      ],
+      "land_tiles": 276,
+      "forest_tiles": 214,
+      "added_forest_tiles": 25
+    },
+    {
+      "region": "Sierra Nevada",
+      "bbox": [
+        -121.4,
+        36,
+        -118,
+        40
+      ],
+      "land_tiles": 627,
+      "forest_tiles": 176,
+      "added_forest_tiles": 48
+    },
+    {
+      "region": "Southern California mountains",
+      "bbox": [
+        -119.5,
+        32.5,
+        -116,
+        35
+      ],
+      "land_tiles": 294,
+      "forest_tiles": 39,
+      "added_forest_tiles": 2
+    },
+    {
+      "region": "Intermountain West",
+      "bbox": [
+        -120,
+        37,
+        -112,
+        43
+      ],
+      "land_tiles": 1922,
+      "forest_tiles": 263,
+      "added_forest_tiles": 205
+    }
+  ],
+  "changes": [
+    {
+      "id": 1651,
+      "action": "added",
+      "forest_fraction": 0.386
+    },
+    {
+      "id": 1792,
+      "action": "added",
+      "forest_fraction": 0.308
+    },
+    {
+      "id": 1793,
+      "action": "added",
+      "forest_fraction": 0.333
+    },
+    {
+      "id": 1794,
+      "action": "added",
+      "forest_fraction": 0.321
+    },
+    {
+      "id": 1877,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 1916,
+      "action": "added",
+      "forest_fraction": 0.333
+    },
+    {
+      "id": 1917,
+      "action": "added",
+      "forest_fraction": 0.62
+    },
+    {
+      "id": 1996,
+      "action": "added",
+      "forest_fraction": 0.463
+    },
+    {
+      "id": 1997,
+      "action": "added",
+      "forest_fraction": 0.708
+    },
+    {
+      "id": 2078,
+      "action": "added",
+      "forest_fraction": 0.37
+    },
+    {
+      "id": 2079,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 2153,
+      "action": "added",
+      "forest_fraction": 0.347
+    },
+    {
+      "id": 2155,
+      "action": "added",
+      "forest_fraction": 0.315
+    },
+    {
+      "id": 2228,
+      "action": "added",
+      "forest_fraction": 0.417
+    },
+    {
+      "id": 2232,
+      "action": "added",
+      "forest_fraction": 0.528
+    },
+    {
+      "id": 2233,
+      "action": "added",
+      "forest_fraction": 0.639
+    },
+    {
+      "id": 2234,
+      "action": "added",
+      "forest_fraction": 0.37
+    },
+    {
+      "id": 2268,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 2269,
+      "action": "added",
+      "forest_fraction": 0.332
+    },
+    {
+      "id": 2270,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 2314,
+      "action": "added",
+      "forest_fraction": 0.69
+    },
+    {
+      "id": 2318,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 2391,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 2392,
+      "action": "added",
+      "forest_fraction": 0.361
+    },
+    {
+      "id": 2393,
+      "action": "added",
+      "forest_fraction": 0.347
+    },
+    {
+      "id": 2397,
+      "action": "added",
+      "forest_fraction": 0.778
+    },
+    {
+      "id": 2398,
+      "action": "added",
+      "forest_fraction": 0.907
+    },
+    {
+      "id": 2399,
+      "action": "added",
+      "forest_fraction": 0.805
+    },
+    {
+      "id": 2428,
+      "action": "added",
+      "forest_fraction": 0.333
+    },
+    {
+      "id": 2478,
+      "action": "added",
+      "forest_fraction": 0.81
+    },
+    {
+      "id": 2479,
+      "action": "added",
+      "forest_fraction": 0.787
+    },
+    {
+      "id": 2507,
+      "action": "added",
+      "forest_fraction": 0.468
+    },
+    {
+      "id": 2557,
+      "action": "added",
+      "forest_fraction": 0.403
+    },
+    {
+      "id": 2558,
+      "action": "added",
+      "forest_fraction": 0.567
+    },
+    {
+      "id": 2629,
+      "action": "added",
+      "forest_fraction": 0.505
+    },
+    {
+      "id": 2635,
+      "action": "added",
+      "forest_fraction": 0.324
+    },
+    {
+      "id": 2639,
+      "action": "added",
+      "forest_fraction": 0.752
+    },
+    {
+      "id": 2664,
+      "action": "added",
+      "forest_fraction": 0.593
+    },
+    {
+      "id": 2665,
+      "action": "added",
+      "forest_fraction": 0.377
+    },
+    {
+      "id": 2714,
+      "action": "added",
+      "forest_fraction": 0.528
+    },
+    {
+      "id": 2792,
+      "action": "added",
+      "forest_fraction": 0.755
+    },
+    {
+      "id": 2793,
+      "action": "added",
+      "forest_fraction": 0.505
+    },
+    {
+      "id": 2839,
+      "action": "added",
+      "forest_fraction": 0.329
+    },
+    {
+      "id": 2872,
+      "action": "added",
+      "forest_fraction": 0.787
+    },
+    {
+      "id": 2878,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 2952,
+      "action": "added",
+      "forest_fraction": 0.625
+    },
+    {
+      "id": 2953,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 2958,
+      "action": "added",
+      "forest_fraction": 0.69
+    },
+    {
+      "id": 2959,
+      "action": "added",
+      "forest_fraction": 0.825
+    },
+    {
+      "id": 2981,
+      "action": "added",
+      "forest_fraction": 0.422
+    },
+    {
+      "id": 2982,
+      "action": "added",
+      "forest_fraction": 0.356
+    },
+    {
+      "id": 2983,
+      "action": "added",
+      "forest_fraction": 0.316
+    },
+    {
+      "id": 3002,
+      "action": "added",
+      "forest_fraction": 0.426
+    },
+    {
+      "id": 3028,
+      "action": "added",
+      "forest_fraction": 0.333
+    },
+    {
+      "id": 3029,
+      "action": "added",
+      "forest_fraction": 0.685
+    },
+    {
+      "id": 3037,
+      "action": "added",
+      "forest_fraction": 0.419
+    },
+    {
+      "id": 3062,
+      "action": "added",
+      "forest_fraction": 0.433
+    },
+    {
+      "id": 3063,
+      "action": "added",
+      "forest_fraction": 0.301
+    },
+    {
+      "id": 3141,
+      "action": "added",
+      "forest_fraction": 0.376
+    },
+    {
+      "id": 3158,
+      "action": "added",
+      "forest_fraction": 0.329
+    },
+    {
+      "id": 3188,
+      "action": "added",
+      "forest_fraction": 0.329
+    },
+    {
+      "id": 3189,
+      "action": "added",
+      "forest_fraction": 0.375
+    },
+    {
+      "id": 3197,
+      "action": "added",
+      "forest_fraction": 0.796
+    },
+    {
+      "id": 3224,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 3238,
+      "action": "added",
+      "forest_fraction": 0.56
+    },
+    {
+      "id": 3272,
+      "action": "added",
+      "forest_fraction": 0.333
+    },
+    {
+      "id": 3276,
+      "action": "added",
+      "forest_fraction": 0.481
+    },
+    {
+      "id": 3277,
+      "action": "added",
+      "forest_fraction": 0.856
+    },
+    {
+      "id": 3303,
+      "action": "added",
+      "forest_fraction": 0.308
+    },
+    {
+      "id": 3316,
+      "action": "added",
+      "forest_fraction": 0.33
+    },
+    {
+      "id": 3356,
+      "action": "added",
+      "forest_fraction": 0.681
+    },
+    {
+      "id": 3357,
+      "action": "added",
+      "forest_fraction": 0.606
+    },
+    {
+      "id": 3396,
+      "action": "added",
+      "forest_fraction": 0.393
+    },
+    {
+      "id": 3397,
+      "action": "added",
+      "forest_fraction": 0.679
+    },
+    {
+      "id": 3436,
+      "action": "added",
+      "forest_fraction": 0.458
+    },
+    {
+      "id": 3437,
+      "action": "added",
+      "forest_fraction": 0.574
+    },
+    {
+      "id": 3462,
+      "action": "added",
+      "forest_fraction": 0.593
+    },
+    {
+      "id": 3464,
+      "action": "added",
+      "forest_fraction": 0.398
+    },
+    {
+      "id": 3475,
+      "action": "added",
+      "forest_fraction": 0.324
+    },
+    {
+      "id": 3516,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 3517,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 3542,
+      "action": "added",
+      "forest_fraction": 0.491
+    },
+    {
+      "id": 3554,
+      "action": "added",
+      "forest_fraction": 0.467
+    },
+    {
+      "id": 3622,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 3653,
+      "action": "added",
+      "forest_fraction": 0.63
+    },
+    {
+      "id": 3672,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 3713,
+      "action": "added",
+      "forest_fraction": 0.741
+    },
+    {
+      "id": 3714,
+      "action": "added",
+      "forest_fraction": 0.75
+    },
+    {
+      "id": 3726,
+      "action": "added",
+      "forest_fraction": 0.537
+    },
+    {
+      "id": 3782,
+      "action": "added",
+      "forest_fraction": 0.406
+    },
+    {
+      "id": 3793,
+      "action": "added",
+      "forest_fraction": 0.491
+    },
+    {
+      "id": 3814,
+      "action": "added",
+      "forest_fraction": 0.338
+    },
+    {
+      "id": 3822,
+      "action": "added",
+      "forest_fraction": 0.426
+    },
+    {
+      "id": 3824,
+      "action": "added",
+      "forest_fraction": 0.634
+    },
+    {
+      "id": 3830,
+      "action": "added",
+      "forest_fraction": 0.468
+    },
+    {
+      "id": 3831,
+      "action": "added",
+      "forest_fraction": 0.514
+    },
+    {
+      "id": 3832,
+      "action": "added",
+      "forest_fraction": 0.486
+    },
+    {
+      "id": 3833,
+      "action": "added",
+      "forest_fraction": 0.806
+    },
+    {
+      "id": 3834,
+      "action": "added",
+      "forest_fraction": 0.625
+    },
+    {
+      "id": 3835,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 3861,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 3902,
+      "action": "added",
+      "forest_fraction": 0.301
+    },
+    {
+      "id": 3904,
+      "action": "added",
+      "forest_fraction": 0.486
+    },
+    {
+      "id": 3907,
+      "action": "added",
+      "forest_fraction": 0.674
+    },
+    {
+      "id": 3908,
+      "action": "added",
+      "forest_fraction": 0.519
+    },
+    {
+      "id": 3909,
+      "action": "added",
+      "forest_fraction": 0.681
+    },
+    {
+      "id": 3911,
+      "action": "added",
+      "forest_fraction": 0.609
+    },
+    {
+      "id": 3912,
+      "action": "added",
+      "forest_fraction": 0.81
+    },
+    {
+      "id": 3913,
+      "action": "added",
+      "forest_fraction": 0.773
+    },
+    {
+      "id": 3914,
+      "action": "added",
+      "forest_fraction": 0.87
+    },
+    {
+      "id": 3915,
+      "action": "added",
+      "forest_fraction": 0.644
+    },
+    {
+      "id": 3916,
+      "action": "added",
+      "forest_fraction": 0.875
+    },
+    {
+      "id": 3917,
+      "action": "added",
+      "forest_fraction": 0.37
+    },
+    {
+      "id": 3940,
+      "action": "added",
+      "forest_fraction": 0.369
+    },
+    {
+      "id": 3950,
+      "action": "added",
+      "forest_fraction": 0.318
+    },
+    {
+      "id": 3964,
+      "action": "added",
+      "forest_fraction": 0.583
+    },
+    {
+      "id": 3977,
+      "action": "added",
+      "forest_fraction": 0.301
+    },
+    {
+      "id": 3978,
+      "action": "added",
+      "forest_fraction": 0.514
+    },
+    {
+      "id": 3984,
+      "action": "added",
+      "forest_fraction": 0.356
+    },
+    {
+      "id": 3985,
+      "action": "added",
+      "forest_fraction": 0.593
+    },
+    {
+      "id": 3986,
+      "action": "added",
+      "forest_fraction": 0.588
+    },
+    {
+      "id": 3987,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 3989,
+      "action": "added",
+      "forest_fraction": 0.648
+    },
+    {
+      "id": 3990,
+      "action": "added",
+      "forest_fraction": 0.603
+    },
+    {
+      "id": 3993,
+      "action": "added",
+      "forest_fraction": 0.779
+    },
+    {
+      "id": 3994,
+      "action": "added",
+      "forest_fraction": 0.662
+    },
+    {
+      "id": 3995,
+      "action": "added",
+      "forest_fraction": 0.634
+    },
+    {
+      "id": 3996,
+      "action": "added",
+      "forest_fraction": 0.681
+    },
+    {
+      "id": 4020,
+      "action": "added",
+      "forest_fraction": 0.373
+    },
+    {
+      "id": 4022,
+      "action": "added",
+      "forest_fraction": 0.335
+    },
+    {
+      "id": 4031,
+      "action": "added",
+      "forest_fraction": 0.53
+    },
+    {
+      "id": 4036,
+      "action": "added",
+      "forest_fraction": 0.486
+    },
+    {
+      "id": 4053,
+      "action": "added",
+      "forest_fraction": 0.491
+    },
+    {
+      "id": 4065,
+      "action": "added",
+      "forest_fraction": 0.495
+    },
+    {
+      "id": 4066,
+      "action": "added",
+      "forest_fraction": 0.375
+    },
+    {
+      "id": 4070,
+      "action": "added",
+      "forest_fraction": 0.454
+    },
+    {
+      "id": 4075,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 4076,
+      "action": "added",
+      "forest_fraction": 0.644
+    },
+    {
+      "id": 4097,
+      "action": "added",
+      "forest_fraction": 0.531
+    },
+    {
+      "id": 4109,
+      "action": "added",
+      "forest_fraction": 0.457
+    },
+    {
+      "id": 4115,
+      "action": "added",
+      "forest_fraction": 0.316
+    },
+    {
+      "id": 4120,
+      "action": "added",
+      "forest_fraction": 0.343
+    },
+    {
+      "id": 4145,
+      "action": "added",
+      "forest_fraction": 0.593
+    },
+    {
+      "id": 4146,
+      "action": "added",
+      "forest_fraction": 0.606
+    },
+    {
+      "id": 4152,
+      "action": "added",
+      "forest_fraction": 0.523
+    },
+    {
+      "id": 4153,
+      "action": "added",
+      "forest_fraction": 0.495
+    },
+    {
+      "id": 4154,
+      "action": "added",
+      "forest_fraction": 0.495
+    },
+    {
+      "id": 4177,
+      "action": "added",
+      "forest_fraction": 0.347
+    },
+    {
+      "id": 4189,
+      "action": "added",
+      "forest_fraction": 0.356
+    },
+    {
+      "id": 4216,
+      "action": "added",
+      "forest_fraction": 0.713
+    },
+    {
+      "id": 4217,
+      "action": "added",
+      "forest_fraction": 0.435
+    },
+    {
+      "id": 4223,
+      "action": "added",
+      "forest_fraction": 0.38
+    },
+    {
+      "id": 4226,
+      "action": "added",
+      "forest_fraction": 0.491
+    },
+    {
+      "id": 4227,
+      "action": "added",
+      "forest_fraction": 0.519
+    },
+    {
+      "id": 4237,
+      "action": "added",
+      "forest_fraction": 0.306
+    },
+    {
+      "id": 4276,
+      "action": "added",
+      "forest_fraction": 0.311
+    },
+    {
+      "id": 4279,
+      "action": "added",
+      "forest_fraction": 0.546
+    },
+    {
+      "id": 4280,
+      "action": "added",
+      "forest_fraction": 0.444
+    },
+    {
+      "id": 4297,
+      "action": "added",
+      "forest_fraction": 0.384
+    },
+    {
+      "id": 4304,
+      "action": "added",
+      "forest_fraction": 0.764
+    },
+    {
+      "id": 4305,
+      "action": "added",
+      "forest_fraction": 0.481
+    },
+    {
+      "id": 4306,
+      "action": "added",
+      "forest_fraction": 0.347
+    },
+    {
+      "id": 4307,
+      "action": "added",
+      "forest_fraction": 0.778
+    },
+    {
+      "id": 4308,
+      "action": "added",
+      "forest_fraction": 0.523
+    },
+    {
+      "id": 4312,
+      "action": "added",
+      "forest_fraction": 0.329
+    },
+    {
+      "id": 4313,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 4314,
+      "action": "added",
+      "forest_fraction": 0.472
+    },
+    {
+      "id": 4315,
+      "action": "added",
+      "forest_fraction": 0.509
+    },
+    {
+      "id": 4316,
+      "action": "added",
+      "forest_fraction": 0.574
+    },
+    {
+      "id": 4317,
+      "action": "added",
+      "forest_fraction": 0.58
+    },
+    {
+      "id": 4348,
+      "action": "added",
+      "forest_fraction": 0.477
+    },
+    {
+      "id": 4357,
+      "action": "added",
+      "forest_fraction": 0.642
+    },
+    {
+      "id": 4358,
+      "action": "added",
+      "forest_fraction": 0.356
+    },
+    {
+      "id": 4359,
+      "action": "added",
+      "forest_fraction": 0.449
+    },
+    {
+      "id": 4370,
+      "action": "added",
+      "forest_fraction": 0.477
+    },
+    {
+      "id": 4371,
+      "action": "added",
+      "forest_fraction": 0.315
+    },
+    {
+      "id": 4372,
+      "action": "added",
+      "forest_fraction": 0.444
+    },
+    {
+      "id": 4383,
+      "action": "added",
+      "forest_fraction": 0.403
+    },
+    {
+      "id": 4384,
+      "action": "added",
+      "forest_fraction": 0.769
+    },
+    {
+      "id": 4385,
+      "action": "added",
+      "forest_fraction": 0.713
+    },
+    {
+      "id": 4386,
+      "action": "added",
+      "forest_fraction": 0.477
+    },
+    {
+      "id": 4387,
+      "action": "added",
+      "forest_fraction": 0.75
+    },
+    {
+      "id": 4388,
+      "action": "added",
+      "forest_fraction": 0.329
+    },
+    {
+      "id": 4389,
+      "action": "added",
+      "forest_fraction": 0.611
+    },
+    {
+      "id": 4393,
+      "action": "added",
+      "forest_fraction": 0.338
+    },
+    {
+      "id": 4394,
+      "action": "added",
+      "forest_fraction": 0.602
+    },
+    {
+      "id": 4395,
+      "action": "added",
+      "forest_fraction": 0.637
+    },
+    {
+      "id": 4396,
+      "action": "added",
+      "forest_fraction": 0.486
+    },
+    {
+      "id": 4427,
+      "action": "added",
+      "forest_fraction": 0.31
+    },
+    {
+      "id": 4432,
+      "action": "added",
+      "forest_fraction": 0.507
+    },
+    {
+      "id": 4433,
+      "action": "added",
+      "forest_fraction": 0.458
+    },
+    {
+      "id": 4448,
+      "action": "added",
+      "forest_fraction": 0.31
+    },
+    {
+      "id": 4450,
+      "action": "added",
+      "forest_fraction": 0.736
+    },
+    {
+      "id": 4452,
+      "action": "added",
+      "forest_fraction": 0.454
+    },
+    {
+      "id": 4457,
+      "action": "added",
+      "forest_fraction": 0.444
+    },
+    {
+      "id": 4462,
+      "action": "added",
+      "forest_fraction": 0.347
+    },
+    {
+      "id": 4463,
+      "action": "added",
+      "forest_fraction": 0.343
+    },
+    {
+      "id": 4464,
+      "action": "added",
+      "forest_fraction": 0.616
+    },
+    {
+      "id": 4466,
+      "action": "added",
+      "forest_fraction": 0.718
+    },
+    {
+      "id": 4468,
+      "action": "added",
+      "forest_fraction": 0.792
+    },
+    {
+      "id": 4472,
+      "action": "added",
+      "forest_fraction": 0.439
+    },
+    {
+      "id": 4510,
+      "action": "added",
+      "forest_fraction": 0.949
+    },
+    {
+      "id": 4517,
+      "action": "added",
+      "forest_fraction": 0.727
+    },
+    {
+      "id": 4527,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 4531,
+      "action": "added",
+      "forest_fraction": 0.579
+    },
+    {
+      "id": 4532,
+      "action": "added",
+      "forest_fraction": 0.412
+    },
+    {
+      "id": 4533,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 4538,
+      "action": "added",
+      "forest_fraction": 0.694
+    },
+    {
+      "id": 4541,
+      "action": "added",
+      "forest_fraction": 0.514
+    },
+    {
+      "id": 4542,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 4544,
+      "action": "added",
+      "forest_fraction": 0.463
+    },
+    {
+      "id": 4553,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 4554,
+      "action": "added",
+      "forest_fraction": 0.505
+    },
+    {
+      "id": 4573,
+      "action": "added",
+      "forest_fraction": 0.877
+    },
+    {
+      "id": 4574,
+      "action": "added",
+      "forest_fraction": 0.551
+    },
+    {
+      "id": 4575,
+      "action": "added",
+      "forest_fraction": 0.371
+    },
+    {
+      "id": 4587,
+      "action": "added",
+      "forest_fraction": 0.57
+    },
+    {
+      "id": 4591,
+      "action": "added",
+      "forest_fraction": 0.737
+    },
+    {
+      "id": 4606,
+      "action": "added",
+      "forest_fraction": 0.556
+    },
+    {
+      "id": 4609,
+      "action": "added",
+      "forest_fraction": 0.454
+    },
+    {
+      "id": 4612,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 4620,
+      "action": "added",
+      "forest_fraction": 0.62
+    },
+    {
+      "id": 4621,
+      "action": "added",
+      "forest_fraction": 0.458
+    },
+    {
+      "id": 4623,
+      "action": "added",
+      "forest_fraction": 0.426
+    },
+    {
+      "id": 4626,
+      "action": "added",
+      "forest_fraction": 0.398
+    },
+    {
+      "id": 4630,
+      "action": "added",
+      "forest_fraction": 0.301
+    },
+    {
+      "id": 4654,
+      "action": "added",
+      "forest_fraction": 0.579
+    },
+    {
+      "id": 4655,
+      "action": "added",
+      "forest_fraction": 0.416
+    },
+    {
+      "id": 4656,
+      "action": "added",
+      "forest_fraction": 0.412
+    },
+    {
+      "id": 4666,
+      "action": "added",
+      "forest_fraction": 0.391
+    },
+    {
+      "id": 4670,
+      "action": "added",
+      "forest_fraction": 0.751
+    },
+    {
+      "id": 4686,
+      "action": "added",
+      "forest_fraction": 0.514
+    },
+    {
+      "id": 4687,
+      "action": "added",
+      "forest_fraction": 0.412
+    },
+    {
+      "id": 4693,
+      "action": "added",
+      "forest_fraction": 0.472
+    },
+    {
+      "id": 4694,
+      "action": "added",
+      "forest_fraction": 0.389
+    },
+    {
+      "id": 4701,
+      "action": "added",
+      "forest_fraction": 0.681
+    },
+    {
+      "id": 4714,
+      "action": "added",
+      "forest_fraction": 0.454
+    },
+    {
+      "id": 4715,
+      "action": "added",
+      "forest_fraction": 0.616
+    },
+    {
+      "id": 4734,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 4735,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 4747,
+      "action": "added",
+      "forest_fraction": 0.809
+    },
+    {
+      "id": 4748,
+      "action": "added",
+      "forest_fraction": 0.893
+    },
+    {
+      "id": 4765,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 4766,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 4773,
+      "action": "added",
+      "forest_fraction": 0.681
+    },
+    {
+      "id": 4778,
+      "action": "added",
+      "forest_fraction": 0.694
+    },
+    {
+      "id": 4781,
+      "action": "added",
+      "forest_fraction": 0.606
+    },
+    {
+      "id": 4794,
+      "action": "added",
+      "forest_fraction": 0.62
+    },
+    {
+      "id": 4795,
+      "action": "added",
+      "forest_fraction": 0.662
+    },
+    {
+      "id": 4814,
+      "action": "added",
+      "forest_fraction": 0.509
+    },
+    {
+      "id": 4826,
+      "action": "added",
+      "forest_fraction": 0.644
+    },
+    {
+      "id": 4827,
+      "action": "added",
+      "forest_fraction": 0.753
+    },
+    {
+      "id": 4835,
+      "action": "added",
+      "forest_fraction": 0.343
+    },
+    {
+      "id": 4846,
+      "action": "added",
+      "forest_fraction": 0.542
+    },
+    {
+      "id": 4847,
+      "action": "added",
+      "forest_fraction": 0.338
+    },
+    {
+      "id": 4850,
+      "action": "added",
+      "forest_fraction": 0.417
+    },
+    {
+      "id": 4852,
+      "action": "added",
+      "forest_fraction": 0.463
+    },
+    {
+      "id": 4853,
+      "action": "added",
+      "forest_fraction": 0.671
+    },
+    {
+      "id": 4855,
+      "action": "added",
+      "forest_fraction": 0.523
+    },
+    {
+      "id": 4858,
+      "action": "added",
+      "forest_fraction": 0.713
+    },
+    {
+      "id": 4862,
+      "action": "added",
+      "forest_fraction": 0.671
+    },
+    {
+      "id": 4865,
+      "action": "added",
+      "forest_fraction": 0.31
+    },
+    {
+      "id": 4876,
+      "action": "added",
+      "forest_fraction": 0.852
+    },
+    {
+      "id": 4894,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 4905,
+      "action": "added",
+      "forest_fraction": 0.564
+    },
+    {
+      "id": 4908,
+      "action": "added",
+      "forest_fraction": 0.833
+    },
+    {
+      "id": 4924,
+      "action": "added",
+      "forest_fraction": 0.426
+    },
+    {
+      "id": 4926,
+      "action": "added",
+      "forest_fraction": 0.583
+    },
+    {
+      "id": 4930,
+      "action": "added",
+      "forest_fraction": 0.412
+    },
+    {
+      "id": 4931,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 4932,
+      "action": "added",
+      "forest_fraction": 0.347
+    },
+    {
+      "id": 4933,
+      "action": "added",
+      "forest_fraction": 0.5
+    },
+    {
+      "id": 4937,
+      "action": "added",
+      "forest_fraction": 0.444
+    },
+    {
+      "id": 4938,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 4942,
+      "action": "added",
+      "forest_fraction": 0.426
+    },
+    {
+      "id": 4972,
+      "action": "added",
+      "forest_fraction": 0.926
+    },
+    {
+      "id": 4985,
+      "action": "added",
+      "forest_fraction": 0.584
+    },
+    {
+      "id": 5005,
+      "action": "added",
+      "forest_fraction": 0.444
+    },
+    {
+      "id": 5012,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 5017,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 5018,
+      "action": "added",
+      "forest_fraction": 0.361
+    },
+    {
+      "id": 5020,
+      "action": "added",
+      "forest_fraction": 0.549
+    },
+    {
+      "id": 5021,
+      "action": "added",
+      "forest_fraction": 0.31
+    },
+    {
+      "id": 5037,
+      "action": "added",
+      "forest_fraction": 0.403
+    },
+    {
+      "id": 5053,
+      "action": "added",
+      "forest_fraction": 0.597
+    },
+    {
+      "id": 5055,
+      "action": "added",
+      "forest_fraction": 0.541
+    },
+    {
+      "id": 5064,
+      "action": "added",
+      "forest_fraction": 0.546
+    },
+    {
+      "id": 5068,
+      "action": "added",
+      "forest_fraction": 0.863
+    },
+    {
+      "id": 5069,
+      "action": "added",
+      "forest_fraction": 0.681
+    },
+    {
+      "id": 5083,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 5085,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 5093,
+      "action": "added",
+      "forest_fraction": 0.301
+    },
+    {
+      "id": 5094,
+      "action": "added",
+      "forest_fraction": 0.37
+    },
+    {
+      "id": 5097,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 5099,
+      "action": "added",
+      "forest_fraction": 0.435
+    },
+    {
+      "id": 5100,
+      "action": "added",
+      "forest_fraction": 0.38
+    },
+    {
+      "id": 5115,
+      "action": "added",
+      "forest_fraction": 0.505
+    },
+    {
+      "id": 5116,
+      "action": "added",
+      "forest_fraction": 0.524
+    },
+    {
+      "id": 5164,
+      "action": "added",
+      "forest_fraction": 0.37
+    },
+    {
+      "id": 5175,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 5178,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 5179,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 5180,
+      "action": "added",
+      "forest_fraction": 0.477
+    },
+    {
+      "id": 5213,
+      "action": "added",
+      "forest_fraction": 0.588
+    },
+    {
+      "id": 5228,
+      "action": "added",
+      "forest_fraction": 0.79
+    },
+    {
+      "id": 5258,
+      "action": "added",
+      "forest_fraction": 0.329
+    },
+    {
+      "id": 5260,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 5303,
+      "action": "added",
+      "forest_fraction": 0.389
+    },
+    {
+      "id": 5329,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 5337,
+      "action": "added",
+      "forest_fraction": 0.389
+    },
+    {
+      "id": 5340,
+      "action": "added",
+      "forest_fraction": 0.468
+    },
+    {
+      "id": 5344,
+      "action": "added",
+      "forest_fraction": 0.37
+    },
+    {
+      "id": 5345,
+      "action": "added",
+      "forest_fraction": 0.449
+    },
+    {
+      "id": 5373,
+      "action": "added",
+      "forest_fraction": 0.519
+    },
+    {
+      "id": 5382,
+      "action": "added",
+      "forest_fraction": 0.398
+    },
+    {
+      "id": 5412,
+      "action": "added",
+      "forest_fraction": 0.352
+    },
+    {
+      "id": 5416,
+      "action": "added",
+      "forest_fraction": 0.319
+    },
+    {
+      "id": 5419,
+      "action": "added",
+      "forest_fraction": 0.519
+    },
+    {
+      "id": 5421,
+      "action": "added",
+      "forest_fraction": 0.338
+    },
+    {
+      "id": 5422,
+      "action": "added",
+      "forest_fraction": 0.403
+    },
+    {
+      "id": 5424,
+      "action": "added",
+      "forest_fraction": 0.468
+    },
+    {
+      "id": 5490,
+      "action": "added",
+      "forest_fraction": 0.306
+    },
+    {
+      "id": 5500,
+      "action": "added",
+      "forest_fraction": 0.394
+    },
+    {
+      "id": 5502,
+      "action": "added",
+      "forest_fraction": 0.403
+    },
+    {
+      "id": 5503,
+      "action": "added",
+      "forest_fraction": 0.528
+    },
+    {
+      "id": 5516,
+      "action": "added",
+      "forest_fraction": 0.314
+    },
+    {
+      "id": 5543,
+      "action": "added",
+      "forest_fraction": 0.667
+    },
+    {
+      "id": 5545,
+      "action": "added",
+      "forest_fraction": 0.634
+    },
+    {
+      "id": 5595,
+      "action": "added",
+      "forest_fraction": 0.31
+    },
+    {
+      "id": 5616,
+      "action": "added",
+      "forest_fraction": 0.537
+    },
+    {
+      "id": 5624,
+      "action": "added",
+      "forest_fraction": 0.861
+    },
+    {
+      "id": 5696,
+      "action": "added",
+      "forest_fraction": 0.384
+    },
+    {
+      "id": 5703,
+      "action": "added",
+      "forest_fraction": 0.856
+    },
+    {
+      "id": 5771,
+      "action": "added",
+      "forest_fraction": 0.787
+    },
+    {
+      "id": 5833,
+      "action": "added",
+      "forest_fraction": 0.324
+    },
+    {
+      "id": 5835,
+      "action": "added",
+      "forest_fraction": 0.333
+    },
+    {
+      "id": 5853,
+      "action": "added",
+      "forest_fraction": 0.491
+    },
+    {
+      "id": 5855,
+      "action": "added",
+      "forest_fraction": 0.699
+    },
+    {
+      "id": 5861,
+      "action": "added",
+      "forest_fraction": 0.491
+    },
+    {
+      "id": 5862,
+      "action": "added",
+      "forest_fraction": 0.861
+    },
+    {
+      "id": 5900,
+      "action": "added",
+      "forest_fraction": 0.472
+    },
+    {
+      "id": 5901,
+      "action": "added",
+      "forest_fraction": 0.375
+    },
+    {
+      "id": 5903,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 5936,
+      "action": "added",
+      "forest_fraction": 0.495
+    },
+    {
+      "id": 6020,
+      "action": "added",
+      "forest_fraction": 0.87
+    },
+    {
+      "id": 6025,
+      "action": "added",
+      "forest_fraction": 0.361
+    },
+    {
+      "id": 6026,
+      "action": "added",
+      "forest_fraction": 0.312
+    },
+    {
+      "id": 6093,
+      "action": "added",
+      "forest_fraction": 0.731
+    },
+    {
+      "id": 6106,
+      "action": "added",
+      "forest_fraction": 0.43
+    },
+    {
+      "id": 6170,
+      "action": "added",
+      "forest_fraction": 0.819
+    },
+    {
+      "id": 6175,
+      "action": "added",
+      "forest_fraction": 0.713
+    },
+    {
+      "id": 6189,
+      "action": "added",
+      "forest_fraction": 0.301
+    },
+    {
+      "id": 6190,
+      "action": "added",
+      "forest_fraction": 0.353
+    },
+    {
+      "id": 6220,
+      "action": "added",
+      "forest_fraction": 0.421
+    },
+    {
+      "id": 6221,
+      "action": "added",
+      "forest_fraction": 0.356
+    },
+    {
+      "id": 6250,
+      "action": "added",
+      "forest_fraction": 0.76
+    },
+    {
+      "id": 6256,
+      "action": "added",
+      "forest_fraction": 0.685
+    },
+    {
+      "id": 6338,
+      "action": "added",
+      "forest_fraction": 0.753
+    },
+    {
+      "id": 6341,
+      "action": "added",
+      "forest_fraction": 0.903
+    },
+    {
+      "id": 6344,
+      "action": "added",
+      "forest_fraction": 0.736
+    },
+    {
+      "id": 6345,
+      "action": "added",
+      "forest_fraction": 0.602
+    },
+    {
+      "id": 6350,
+      "action": "added",
+      "forest_fraction": 0.556
+    },
+    {
+      "id": 6415,
+      "action": "added",
+      "forest_fraction": 0.653
+    },
+    {
+      "id": 6427,
+      "action": "added",
+      "forest_fraction": 0.315
+    },
+    {
+      "id": 6431,
+      "action": "added",
+      "forest_fraction": 0.481
+    },
+    {
+      "id": 6438,
+      "action": "removed",
+      "forest_fraction": 0.019
+    },
+    {
+      "id": 6490,
+      "action": "added",
+      "forest_fraction": 0.751
+    },
+    {
+      "id": 6501,
+      "action": "added",
+      "forest_fraction": 0.662
+    },
+    {
+      "id": 6503,
+      "action": "added",
+      "forest_fraction": 0.84
+    },
+    {
+      "id": 6591,
+      "action": "added",
+      "forest_fraction": 0.577
+    },
+    {
+      "id": 6651,
+      "action": "added",
+      "forest_fraction": 0.889
+    },
+    {
+      "id": 6697,
+      "action": "added",
+      "forest_fraction": 0.366
+    },
+    {
+      "id": 6715,
+      "action": "added",
+      "forest_fraction": 0.346
+    },
+    {
+      "id": 6737,
+      "action": "added",
+      "forest_fraction": 0.667
+    },
+    {
+      "id": 6741,
+      "action": "added",
+      "forest_fraction": 0.556
+    },
+    {
+      "id": 6751,
+      "action": "added",
+      "forest_fraction": 0.653
+    },
+    {
+      "id": 6821,
+      "action": "added",
+      "forest_fraction": 0.751
+    },
+    {
+      "id": 6889,
+      "action": "added",
+      "forest_fraction": 0.838
+    },
+    {
+      "id": 6894,
+      "action": "added",
+      "forest_fraction": 0.894
+    },
+    {
+      "id": 6906,
+      "action": "added",
+      "forest_fraction": 0.443
+    },
+    {
+      "id": 6911,
+      "action": "added",
+      "forest_fraction": 0.722
+    },
+    {
+      "id": 6976,
+      "action": "added",
+      "forest_fraction": 0.407
+    },
+    {
+      "id": 6978,
+      "action": "added",
+      "forest_fraction": 0.718
+    },
+    {
+      "id": 6988,
+      "action": "added",
+      "forest_fraction": 0.861
+    },
+    {
+      "id": 6990,
+      "action": "added",
+      "forest_fraction": 0.583
+    },
+    {
+      "id": 6991,
+      "action": "added",
+      "forest_fraction": 0.537
+    }
+  ],
+  "final_forest_tiles": 1018
+}

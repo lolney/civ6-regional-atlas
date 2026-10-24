@@ -1,0 +1,16 @@
+name,scenario_level_m,sensitivity_m,hexes,confidence
+Bonneville,1450,60,214,moderate
+Lahontan — western basins,1260,30,48,low-to-moderate
+Lahontan — Carson/Humboldt,1220,35,23,low-to-moderate
+Lahontan — Walker,1230,40,1,low-to-moderate
+Russell (Mono),2073,30,3,moderate
+Owens,1145,25,5,low-to-moderate
+Searles,670,35,4,low-to-moderate
+Manly,0,50,7,low-to-moderate
+Mojave,287,15,1,low-to-moderate
+Honey,1240,30,5,low-to-moderate
+Surprise,1380,35,4,low-to-moderate
+Chewaucan,1320,40,0,low-to-moderate
+Warner,1430,35,3,low-to-moderate
+Franklin,1830,30,4,low-to-moderate
+Tulare,65,20,13,low-to-moderate

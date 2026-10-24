@@ -1,0 +1,186 @@
+{
+  "ruleset": "RULESET_EXPANSION_2",
+  "scope": "Standard placeable bonus, luxury and strategic map resources available with Gathering Storm. Excludes optional resource DLC, game modes, scenario resources, artifacts and non-map luxuries.",
+  "resources": [
+    {
+      "id": "ALUMINUM",
+      "class": "strategic"
+    },
+    {
+      "id": "AMBER",
+      "class": "luxury"
+    },
+    {
+      "id": "BANANAS",
+      "class": "bonus"
+    },
+    {
+      "id": "CATTLE",
+      "class": "bonus"
+    },
+    {
+      "id": "CITRUS",
+      "class": "luxury"
+    },
+    {
+      "id": "COAL",
+      "class": "strategic"
+    },
+    {
+      "id": "COCOA",
+      "class": "luxury"
+    },
+    {
+      "id": "COFFEE",
+      "class": "luxury"
+    },
+    {
+      "id": "COPPER",
+      "class": "bonus"
+    },
+    {
+      "id": "COTTON",
+      "class": "luxury"
+    },
+    {
+      "id": "CRABS",
+      "class": "bonus"
+    },
+    {
+      "id": "DEER",
+      "class": "bonus"
+    },
+    {
+      "id": "DIAMONDS",
+      "class": "luxury"
+    },
+    {
+      "id": "DYES",
+      "class": "luxury"
+    },
+    {
+      "id": "FISH",
+      "class": "bonus"
+    },
+    {
+      "id": "FURS",
+      "class": "luxury"
+    },
+    {
+      "id": "GYPSUM",
+      "class": "luxury"
+    },
+    {
+      "id": "HORSES",
+      "class": "strategic"
+    },
+    {
+      "id": "INCENSE",
+      "class": "luxury"
+    },
+    {
+      "id": "IRON",
+      "class": "strategic"
+    },
+    {
+      "id": "IVORY",
+      "class": "luxury"
+    },
+    {
+      "id": "JADE",
+      "class": "luxury"
+    },
+    {
+      "id": "MARBLE",
+      "class": "luxury"
+    },
+    {
+      "id": "MERCURY",
+      "class": "luxury"
+    },
+    {
+      "id": "NITER",
+      "class": "strategic"
+    },
+    {
+      "id": "OIL",
+      "class": "strategic"
+    },
+    {
+      "id": "OLIVES",
+      "class": "luxury"
+    },
+    {
+      "id": "PEARLS",
+      "class": "luxury"
+    },
+    {
+      "id": "RICE",
+      "class": "bonus"
+    },
+    {
+      "id": "SALT",
+      "class": "luxury"
+    },
+    {
+      "id": "SHEEP",
+      "class": "bonus"
+    },
+    {
+      "id": "SILK",
+      "class": "luxury"
+    },
+    {
+      "id": "SILVER",
+      "class": "luxury"
+    },
+    {
+      "id": "SPICES",
+      "class": "luxury"
+    },
+    {
+      "id": "STONE",
+      "class": "bonus"
+    },
+    {
+      "id": "SUGAR",
+      "class": "luxury"
+    },
+    {
+      "id": "TEA",
+      "class": "luxury"
+    },
+    {
+      "id": "TOBACCO",
+      "class": "luxury"
+    },
+    {
+      "id": "TRUFFLES",
+      "class": "luxury"
+    },
+    {
+      "id": "TURTLES",
+      "class": "luxury"
+    },
+    {
+      "id": "URANIUM",
+      "class": "strategic"
+    },
+    {
+      "id": "WHALES",
+      "class": "luxury"
+    },
+    {
+      "id": "WHEAT",
+      "class": "bonus"
+    },
+    {
+      "id": "WINE",
+      "class": "luxury"
+    }
+  ],
+  "sources": [
+    "https://github.com/mrobaczyk/civ6/blob/main/Base/Assets/Gameplay/Data/Resources.xml",
+    "https://steamcdn-a.akamaihd.net/steam/apps/645402/manuals/CIV_VI_EXP_ONLINE_MANUAL_ENG.PDF"
+  ]
+}

@@ -1,0 +1,182 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Publication_Date: 20180419
+        Title: Glacial Extent during Tioga Glaciation (Yosemite Area)
+        Geospatial_Data_Presentation_Form: Vector Digital Data Set (Polygon)
+    Description:
+      Abstract: Map of glacial extent in Yosemite National Park and vicinity as it looked circa 20,000 years ago during the Last Glacial Maximum (Tioga) Glaciation.
+      Purpose: This map was produced, over a period of more than 50 years, by scientists from the US Geological Survey and the National Park Service, based on extensive field mapping and remote sensing analyses.  This is the extent shown in the USGS Scientific Investigation Series Map "Extent of the Last Glacial Maximum (Tioga) Glaciation in Yosemite National Park and Vicinity, California" by Wahrhaftig et al, 2018.
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: As needed
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -120.001516645
+        East_Bounding_Coordinate: -118.99856528
+        North_Bounding_Coordinate: 38.235935812
+        South_Bounding_Coordinate: 37.37431706
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Categories
+        Theme_Keyword: environment
+        Theme_Keyword: geoscientificInformation
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Geology
+        Theme_Keyword: Physical Sciences
+        Theme_Keyword: Tioga
+        Theme_Keyword: YOSE
+        Theme_Keyword: NPS
+        Theme_Keyword: Yosemite
+        Theme_Keyword: Resources
+        Theme_Keyword: Glaciers.
+    Access_Constraints:
+      The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.
+      Source: National Park Service, Yosemite National Park. The Data is redistributable with proper metadata and source attribution notices to the respective data provider(s).
+    Use_Constraints: The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.Source: National Park Service, Yosemite National Park. The Data is redistributable with proper metadata and source attribution notices to the respective data provider(s).
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Yosemite National Park
+          Contact_Person: YOSE GIS
+        Contact_Address:
+          Address_Type: Mailing
+          Address: 700/5083 Foresta Road
+          Address: 700/5083 Foresta Road
+          City: El Portal
+          State_or_Province: CA
+          Postal_Code: 95318
+          Country: US
+        Contact_Voice_Telephone: 209-379-1157
+        Contact_Electronic_Mail_Address: yose_gis_support@nps.gov
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Yosemite National Park
+          Contact_Person: YOSE GIS
+        Contact_Address:
+          Address_Type: mailing
+          Address: 700/5083 Foresta Road
+          City: El Portal
+          State_or_Province: CA
+          Postal_Code: 95318
+          Country: US
+        Contact_Voice_Telephone: 209-379-1157
+        Contact_Electronic_Mail_Address: yose_gis_support@nps.gov
+    Data_Set_Credit: NPS, Yosemite National Park, Geology; USGS
+    Native_Data_Set_Environment: Environment as of Metadata Creation: Microsoft [Unknown] Version 6.2 (Build 9200) ; Esri ArcGIS 10.6 (Build 8321) Service Pack N/A (Build N/A)
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report: No formal attribute accuracy tests were conducted.
+    Logical_Consistency_Report: No formal logical accuracy tests were conducted.
+    Completeness_Report: Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: A formal accuracy assessment of the horizontal positional information in the data set has not been conducted.
+      Vertical_Positional_Accuracy:
+        Vertical_Positional_Accuracy_Report: A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Title: Extent of the Last Glacial Maximum (Tioga) Glaciation in Yosemite National Park and Vicinity, California (USGS Scientific Investigations Report, 2018)
+        Type_of_Source_Media: Digital and/or Hardcopy Resources
+        Source_Citation_Abbreviation: Extent of the Last Glacial Maximum (Tioga) Glaciation in Yosemite National Park and Vicinity, California (USGS Scientific Investigations Report, 2018)
+        Source_Contribution: Source information used in support of the development of the data set.
+      Process_Step:
+        Process_Description: Development of the data set by the agency / individuals identified in the 'Originator' element in the Identification Info section of the record.
+        Process_Date: Unknown
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: G-polygon
+        Point_and_Vector_Object_Count: 1
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Planar:
+        Grid_Coordinate_System:
+          Grid_Coordinate_System_Name: Universal Transverse Mercator
+          Universal_Transverse_Mercator:
+            UTM_Zone_Number: 11
+            Transverse_Mercator:
+              Scale_Factor_at_Central_Meridian: 0.9996
+              Longitude_of_Central_Meridian: -117.0
+              Latitude_of_Projection_Origin: 0.0
+              False_Easting: 500000.0
+              False_Northing: 0.0
+        Planar_Coordinate_Information:
+          Planar_Coordinate_Encoding_Method: coordinate pair
+          Coordinate_Representation:
+            Abscissa_Resolution: 0.6096
+            Ordinate_Resolution: 0.6096
+          Planar_Distance_Units: Meter
+      Geodetic_Model:
+        Horizontal_Datum_Name: D_North_American_1983
+        Ellipsoid_Name: GRS_1980
+        Semi-major_Axis: 6378137.0
+        Denominator_of_Flattening_Ratio: 298.257222101
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Attribute Table
+        Entity_Type_Definition: Table containing attribute information associated with the data set.
+        Entity_Type_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: OBJECTID
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: Esri
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 1
+      Attribute:
+        Attribute_Label: Shape_STAr
+        Attribute_Definition: Unknown
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 3674934896.5
+            Range_Domain_Maximum: 3674934896.5
+      Attribute:
+        Attribute_Label: Shape_STLe
+        Attribute_Definition: Unknown
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2860561.16557
+            Range_Domain_Maximum: 2860561.16557
+    Overview_Description:
+      Entity_and_Attribute_Overview: The entity and attribute information provided here describes the tabular data associated with the data set. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the data set.
+      Entity_and_Attribute_Detail_Citation: The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information.
+  Distribution_Information:
+    Distribution_Liability: Distributor assumes no liability for misuse of data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: Vector Digital Data Set (Polygon)
+      Fees: None. No fees are applicable for obtaining the data set.
+  Metadata_Reference_Information:
+    Metadata_Date: 20190626
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Yosemite National Park
+          Contact_Person: YOSE GIS
+        Contact_Address:
+          Address_Type: Mailing
+          Address: 700/5083 Foresta Road
+          City: El Portal
+          State_or_Province: CA
+          Postal_Code: 95318
+          Country: US
+        Contact_Voice_Telephone: 209-379-1157
+        Contact_Electronic_Mail_Address: yose_gis_support@nps.gov
+    Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Time_Convention: local time
+    Metadata_Access_Constraints:
+      The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.
+      Source: National Park Service, Yosemite National Park. The Data is redistributable with proper metadata and source attribution notices to the respective data provider(s).

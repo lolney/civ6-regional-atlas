@@ -1,0 +1,373 @@
+{
+  "Map": [
+    [
+      "Default",
+      80,
+      88,
+      43,
+      31,
+      0,
+      0,
+      "MAPSIZE_HUGE"
+    ]
+  ],
+  "MapAttributes": [
+    [
+      "MapScript",
+      "WorldBuilderMap.lua"
+    ],
+    [
+      "Ruleset",
+      "RULESET_EXPANSION_2"
+    ]
+  ],
+  "PlotAttributes": [],
+  "PlotCliffs": [],
+  "PlotRoutes": [],
+  "PlotOwners": [],
+  "RevealedPlots": [],
+  "StartPositions": [],
+  "Units": [],
+  "UnitAttributes": [],
+  "Cities": [],
+  "CityAttributes": [],
+  "Districts": [],
+  "DistrictAttributes": [],
+  "Buildings": [],
+  "Players": [],
+  "PlayerAttributes": [],
+  "ModComponents": [],
+  "ModComponent_Properties": [],
+  "ModComponent_Items": [],
+  "ModSettings": [
+    [
+      "WorldBuilder",
+      "WORLDBUILDER"
+    ]
+  ],
+  "ModSettings_Items": [
+    [
+      "WorldBuilder",
+      "WORLDBUILDER",
+      "File",
+      "[self]"
+    ]
+  ],
+  "GameConfig": [],
+  "NamedRiverPlot": [],
+  "NamedRiver": [],
+  "MetaData": [
+    [
+      "MetaDataVersion",
+      "1"
+    ],
+    [
+      "AppVersion",
+      "1.0.12.43 (899997)"
+    ],
+    [
+      "DisplayName",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ID",
+      "CACA2100-2100-4210-8210-000000000021"
+    ],
+    [
+      "IsMod",
+      "1"
+    ],
+    [
+      "LastUpdated",
+      "1789776000"
+    ]
+  ],
+  "ModProperties": [
+    [
+      "ID",
+      "CACA2100-2100-4210-8210-000000000021"
+    ],
+    [
+      "Version",
+      "1"
+    ],
+    [
+      "DBVersion",
+      "3"
+    ],
+    [
+      "Name",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE"
+    ],
+    [
+      "Type",
+      "WorldBuilderMap"
+    ],
+    [
+      "Description",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION"
+    ]
+  ],
+  "ModSettings_Properties": [
+    [
+      "WorldBuilder",
+      "WORLDBUILDER",
+      "Name",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME"
+    ],
+    [
+      "WorldBuilder",
+      "WORLDBUILDER",
+      "Description",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION"
+    ]
+  ],
+  "ModText": [
+    [
+      "en_US",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "en_US",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "en_US",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "en_US",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "fr_FR",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "fr_FR",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "fr_FR",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "fr_FR",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "de_DE",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "de_DE",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "de_DE",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "de_DE",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "es_ES",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "es_ES",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "es_ES",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "es_ES",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "it_IT",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "it_IT",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "it_IT",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "it_IT",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "ja_JP",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ja_JP",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "ja_JP",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ja_JP",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "ko_KR",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ko_KR",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "ko_KR",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ko_KR",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "pl_PL",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "pl_PL",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "pl_PL",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "pl_PL",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "pt_BR",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "pt_BR",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "pt_BR",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "pt_BR",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "ru_RU",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ru_RU",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "ru_RU",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "ru_RU",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "zh_Hans_CN",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "zh_Hans_CN",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "zh_Hans_CN",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "zh_Hans_CN",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "zh_Hant_HK",
+      "LOC_CACA2100210042108210000000000021_MOD_TITLE",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "zh_Hant_HK",
+      "LOC_CACA2100210042108210000000000021_MOD_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ],
+    [
+      "zh_Hant_HK",
+      "LOC_CACA2100210042108210000000000021_MAP_NAME",
+      "California \u2014 Last Glacial Maximum (Gathering Storm)"
+    ],
+    [
+      "zh_Hant_HK",
+      "LOC_CACA2100210042108210000000000021_MAP_DESCRIPTION",
+      "80 \u00d7 88. Approximate 21 ka landscape; lower seas, pluvial lakes, shifted biomes and alpine glaciers. See reconstruction notes."
+    ]
+  ],
+  "ModDependencies": [
+    [
+      "4873eb62-8ccc-4574-b784-dda455e74e68",
+      "{\"LOC_EXPANSION2_MOD_TITLE\":[]}"
+    ]
+  ]
+}

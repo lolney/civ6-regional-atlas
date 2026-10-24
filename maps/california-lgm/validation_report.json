@@ -1,0 +1,389 @@
+{
+  "status": "PASS",
+  "file": "California_LastGlacialMaximum.Civ6Map",
+  "sha256": "a7dc3581fc55fefe26b6d73a19a76ce492f728f8cb7e5220b4f071a092f2acdc",
+  "engine_tested": false,
+  "checks_passed": 57,
+  "checks_total": 57,
+  "errors": [],
+  "checks": [
+    {
+      "check": "SQLite integrity",
+      "pass": true,
+      "detail": [
+        "ok"
+      ]
+    },
+    {
+      "check": "SQLite foreign_key_check",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "WorldBuilder tables present",
+      "pass": true,
+      "detail": {
+        "expected": 35,
+        "actual": 35
+      }
+    },
+    {
+      "check": "WorldBuilder column schema",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Dimensions and Huge classification",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Regional non-wrapping map",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Dense complete zero-based plot IDs",
+      "pass": true,
+      "detail": 7040
+    },
+    {
+      "check": "Known terrain and continent identifiers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Mountains are impassable; other terrain passable",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Plot child rows reference valid plots",
+      "pass": true,
+      "detail": {
+        "PlotFeatures": [],
+        "PlotResources": [],
+        "PlotRivers": [],
+        "PlotCliffs": [],
+        "PlotImprovements": []
+      }
+    },
+    {
+      "check": "Legal feature terrains",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Native resource identifiers and positive quantities",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "All procedural resource spawn exceptions explicitly documented",
+      "pass": true,
+      "detail": {}
+    },
+    {
+      "check": "Authored deposits use passable improvement domains",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All seven strategic resources represented",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Legal river flags, directions and bank ownership",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Unique owned river edges",
+      "pass": true,
+      "detail": 1246
+    },
+    {
+      "check": "River flow converges without forked outflows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No directed river cycles",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Modern Bay floor is exposed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Gathering Storm ruleset and only intended dependency",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "WorldBuilder map loader and self-packaging metadata",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No inherited scenario players, cities or units",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Tribal villages on free passable land",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Preview terrain/feature/resource rows match native file",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Preview river edges match native file",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Neighboring distinct watersheds remain separate",
+      "pass": true,
+      "detail": [
+        [
+          "Truckee",
+          "Sacramento"
+        ],
+        [
+          "Truckee",
+          "American"
+        ],
+        [
+          "Mad",
+          "Eel"
+        ],
+        [
+          "Big",
+          "Noyo"
+        ],
+        [
+          "Russian",
+          "Big"
+        ],
+        [
+          "Los Angeles",
+          "San Gabriel"
+        ],
+        [
+          "Sweetwater",
+          "Otay"
+        ],
+        [
+          "Otay",
+          "Tijuana"
+        ],
+        [
+          "San Luis Rey",
+          "Santa Margarita"
+        ],
+        [
+          "Carson",
+          "Walker"
+        ],
+        [
+          "Carson",
+          "Truckee"
+        ],
+        [
+          "East Fork Carson",
+          "West Walker"
+        ],
+        [
+          "New",
+          "Alamo"
+        ]
+      ]
+    },
+    {
+      "check": "San Francisco Peninsula is attached to mainland",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Sacramento reaches lowered Pacific coast",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "San Joaquin reaches lowered Pacific coast",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Unique LGM identity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All glacier proxies are empty impassable snow mountains",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No continental ice sheet within this southern crop",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Modern reservoirs and Salton Sea removed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Bonneville represented as water",
+      "pass": true,
+      "detail": 214
+    },
+    {
+      "check": "Bonneville is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Lahontan \u2014 western basins represented as water",
+      "pass": true,
+      "detail": 43
+    },
+    {
+      "check": "Lahontan \u2014 western basins is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Lahontan \u2014 Carson/Humboldt represented as water",
+      "pass": true,
+      "detail": 23
+    },
+    {
+      "check": "Lahontan \u2014 Carson/Humboldt is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Russell (Mono) represented as water",
+      "pass": true,
+      "detail": 3
+    },
+    {
+      "check": "Russell (Mono) is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Owens represented as water",
+      "pass": true,
+      "detail": 5
+    },
+    {
+      "check": "Owens is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Searles represented as water",
+      "pass": true,
+      "detail": 4
+    },
+    {
+      "check": "Searles is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Manly represented as water",
+      "pass": true,
+      "detail": 7
+    },
+    {
+      "check": "Manly is contiguous",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Santarosae islands connected to each other",
+      "pass": true,
+      "detail": [
+        1470,
+        1391,
+        1474,
+        1476
+      ]
+    },
+    {
+      "check": "Santarosae remains separate from mainland",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Floodplains touch rivers and remain flat",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Twelve passable freshwater start suggestions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Start spacing and edge margin",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Start food and expansion space",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No omitted routed source segments",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Marine fauna excluded from inland lakes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No warm water sea ice mistakenly used as land glaciers",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "warnings": [
+    "Paleogeography is an approximate 21 ka scenario, not a dated high-resolution reconstruction. See RECONSTRUCTION.md.",
+    "Civ VI uses snow mountains as a land-glacier proxy. Large lake water bodies may use marine gameplay behavior.",
+    "Engine loading and gameplay have not been tested for this alternate map."
+  ],
+  "stats": {
+    "tiles": 7040,
+    "land": 4698,
+    "water": 2342,
+    "mountains": 265,
+    "hills": 2597,
+    "forests": 1399,
+    "floodplains": 263,
+    "river_edges": 1246,
+    "river_names": 75,
+    "resource_tiles": 1154,
+    "goody_huts": 65,
+    "median_river_offset_km": 2.96,
+    "max_river_offset_km": 18.12,
+    "california_polygon_contained": true,
+    "glacier_hexes": 75,
+    "exposed_seabed_hexes": 118,
+    "pluvial_lake_hexes": 340
+  }
+}

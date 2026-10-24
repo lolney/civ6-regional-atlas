@@ -1,0 +1,6 @@
+numpy
+scipy
+pyshp
+shapely>=2
+pyproj
+pillow

@@ -1,0 +1,135 @@
+[
+  {
+    "resource": "FURS",
+    "tiles": 18,
+    "decision": "placed",
+    "reason": "Northern California, southern Oregon and Sierra forests; beaver, otter and other furbearers.",
+    "source": "https://wildlife.ca.gov/Conservation/Mammals/Beaver"
+  },
+  {
+    "resource": "COTTON",
+    "tiles": 19,
+    "decision": "placed",
+    "reason": "Fresno, Kings, Merced and Tulare counties, plus Imperial and Palo Verde valleys.",
+    "source": "https://www.cdfa.ca.gov/Statistics/PDFs/2022-2023_california_agricultural_statistics_review.pdf"
+  },
+  {
+    "resource": "OLIVES",
+    "tiles": 10,
+    "decision": "placed",
+    "reason": "Corning/Tehama, Orland/Glenn, Yolo, Tulare and San Joaquin groves.",
+    "source": "https://www.cdfa.ca.gov/Statistics/PDFs/2022-2023_california_agricultural_statistics_review.pdf"
+  },
+  {
+    "resource": "COFFEE",
+    "tiles": 1,
+    "decision": "placed",
+    "reason": "One small Goleta/Santa Barbara planting; documented commercial production, exaggerated to a whole game tile.",
+    "source": "https://cesantabarbara.ucanr.edu/files/179297.pdf"
+  },
+  {
+    "resource": "JADE",
+    "tiles": 1,
+    "decision": "placed",
+    "reason": "One coastal Big Sur nephrite deposit near Jade Cove, placed on adjacent land.",
+    "source": "https://sanctuaries.noaa.gov/science/conservation/pdfs/Zones.pdf"
+  },
+  {
+    "resource": "DIAMONDS",
+    "tiles": 1,
+    "decision": "placed",
+    "reason": "One Cherokee/Oroville placer occurrence. These are documented diamonds, not a replacement for omitted gold. Their rarity is represented by one tile.",
+    "source": "https://pubs.usgs.gov/bul/1042g/report.pdf"
+  },
+  {
+    "resource": "DYES",
+    "tiles": 3,
+    "decision": "placed",
+    "reason": "Native woodland plant pigments and tannins in North Coast and Sierra foothill habitats; a broad resource-category interpretation.",
+    "source": "https://www.fs.usda.gov/psw/publications/lake/psw_2024_lake004.pdf"
+  },
+  {
+    "resource": "SPICES",
+    "tiles": 3,
+    "decision": "placed",
+    "reason": "California bay laurel in the Santa Lucia Range, Santa Cruz Mountains and North Coast. This represents local seasoning leaves rather than tropical pepper.",
+    "source": "https://research.fs.usda.gov/silvics/california-laurel"
+  },
+  {
+    "resource": "SUGAR",
+    "tiles": 4,
+    "decision": "placed",
+    "reason": "Imperial Valley sugar-beet farming. The Sugar category represents the crop product, despite the game\u2019s usual sugar-cane association.",
+    "source": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca1208p7-175555.pdf"
+  },
+  {
+    "resource": "TOBACCO",
+    "tiles": 3,
+    "decision": "placed",
+    "reason": "Native Nicotiana habitat in the North Coast, Sierra foothills and southern California. Not a claim of a modern commercial tobacco belt.",
+    "source": "https://www.calflora.org/app/taxon?crn=5862"
+  },
+  {
+    "resource": "INCENSE",
+    "tiles": 3,
+    "decision": "placed",
+    "reason": "Aromatic brittlebush resin in the Coachella, Mojave and lower Colorado deserts; an explicit interpretation of the incense category.",
+    "source": "https://research.fs.usda.gov/feis/species-reviews/encfar"
+  },
+  {
+    "resource": "TURTLES",
+    "tiles": 1,
+    "decision": "placed",
+    "reason": "One San Diego coastal green-turtle habitat tile. Preserves coast without adding a fictitious tropical coral reef; this is a documented procedural spawn exception.",
+    "source": "https://www.fisheries.noaa.gov/west-coast/science-data/green-turtle-research-and-conservation-southern-california"
+  },
+  {
+    "resource": "TEA",
+    "tiles": 1,
+    "decision": "placed",
+    "reason": "One historical Wakamatsu/Gold Hill placement near Coloma. The 1869\u20131871 colony was small and short-lived; this is a historical reference, not a modern producing district.",
+    "source": "https://ohp.parks.ca.gov/ListedResources/Detail/815"
+  },
+  {
+    "resource": "SILK",
+    "tiles": 1,
+    "decision": "placed",
+    "reason": "One historical Wakamatsu sericulture placement near Coloma, with the same small-scale historical interpretation as Tea.",
+    "source": "https://www.parks.ca.gov/?page_id=24738"
+  },
+  {
+    "resource": "AMBER",
+    "tiles": 0,
+    "decision": "absent",
+    "reason": "Kept absent: no sufficiently convincing, locatable amber deposit was identified in this audit. Ordinary fresh tree resin is not treated as fossil amber.",
+    "source": ""
+  },
+  {
+    "resource": "BANANAS",
+    "tiles": 0,
+    "decision": "absent",
+    "reason": "Kept absent: a suitable regional production district was not verified. Garden cultivation alone did not justify a tile or artificial rainforest.",
+    "source": ""
+  },
+  {
+    "resource": "COCOA",
+    "tiles": 0,
+    "decision": "absent",
+    "reason": "Kept absent: no convincing outdoor cacao district was identified within this temperate/desert map.",
+    "source": ""
+  },
+  {
+    "resource": "IVORY",
+    "tiles": 0,
+    "decision": "absent",
+    "reason": "Kept absent: the map has no native elephant resource; fossil mammoths and elephant seals are not substituted.",
+    "source": ""
+  },
+  {
+    "resource": "PEARLS",
+    "tiles": 0,
+    "decision": "absent",
+    "reason": "Kept absent: the documented Gulf pearl industry is centered much farther south than the small upper-Gulf corner in this map. A local pearl fishery was not verified.",
+    "source": "https://repository.library.noaa.gov/view/noaa/3028/noaa_3028_DS1.pdf"
+  }
+]

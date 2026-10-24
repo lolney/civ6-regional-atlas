@@ -1,0 +1,76 @@
+plot_id,lat,lon,evidence,confidence,mapped_yosemite_fraction
+3161,36.5527,-118.39748,Regional elevation/range approximation,lower,0.0
+3162,36.55021,-118.22413,Regional elevation/range approximation,lower,0.0
+3241,36.67461,-118.48176,Regional elevation/range approximation,lower,0.0
+3242,36.67225,-118.30812,Regional elevation/range approximation,lower,0.0
+3321,36.79422,-118.39239,Regional elevation/range approximation,lower,0.0
+3400,36.91823,-118.65113,Regional elevation/range approximation,lower,0.0
+3401,36.91612,-118.47693,Regional elevation/range approximation,lower,0.0
+3479,37.03995,-118.73622,Regional elevation/range approximation,lower,0.0
+3480,37.03796,-118.56174,Regional elevation/range approximation,lower,0.0
+3559,37.1616,-118.82159,Regional elevation/range approximation,lower,0.0
+3560,37.15973,-118.64682,Regional elevation/range approximation,lower,0.0
+3561,37.15761,-118.47207,Regional elevation/range approximation,lower,0.0
+3638,37.28318,-118.90723,Regional elevation/range approximation,lower,0.0
+3639,37.28144,-118.73218,Regional elevation/range approximation,lower,0.0
+3640,37.27945,-118.55714,Regional elevation/range approximation,lower,0.0
+3718,37.4047,-118.99315,Regional elevation/range approximation,lower,0.107
+3719,37.40309,-118.81781,Regional elevation/range approximation,lower,0.0
+3720,37.40122,-118.64249,Regional elevation/range approximation,lower,0.0
+3795,37.52835,-119.4306,USGS mapped Tioga footprint,higher,0.614
+3796,37.52738,-119.25497,USGS mapped Tioga footprint,higher,0.555
+3797,37.52615,-119.07934,USGS mapped Tioga footprint,higher,0.689
+3798,37.52467,-118.90372,Regional elevation/range approximation,lower,0.0
+3799,37.52293,-118.72811,Regional elevation/range approximation,lower,0.0
+3875,37.64948,-119.51764,USGS mapped Tioga footprint,higher,0.407
+3876,37.64864,-119.34173,USGS mapped Tioga footprint,higher,0.934
+3877,37.64755,-119.16582,USGS mapped Tioga footprint,higher,0.907
+3878,37.64619,-118.98991,USGS mapped Tioga footprint,higher,0.306
+3954,37.77055,-119.60496,USGS mapped Tioga footprint,higher,0.403
+3955,37.76984,-119.42877,USGS mapped Tioga footprint,higher,0.794
+3956,37.76887,-119.25257,USGS mapped Tioga footprint,higher,0.9
+3957,37.76764,-119.07638,USGS mapped Tioga footprint,higher,0.406
+4033,37.89188,-119.86906,USGS mapped Tioga footprint,higher,0.292
+4034,37.89156,-119.69257,USGS mapped Tioga footprint,higher,0.355
+4035,37.89098,-119.51609,USGS mapped Tioga footprint,higher,0.909
+4036,37.89014,-119.3396,USGS mapped Tioga footprint,higher,0.972
+4037,37.88904,-119.16313,USGS mapped Tioga footprint,higher,0.383
+4113,38.0125,-119.78046,USGS mapped Tioga footprint,higher,0.789
+4114,38.01205,-119.60369,USGS mapped Tioga footprint,higher,0.843
+4115,38.01134,-119.42692,USGS mapped Tioga footprint,higher,0.973
+4116,38.01037,-119.25016,USGS mapped Tioga footprint,higher,0.53
+4193,38.13338,-119.86863,USGS mapped Tioga footprint,higher,0.86
+4194,38.13306,-119.69158,USGS mapped Tioga footprint,higher,0.99
+4195,38.13248,-119.51452,USGS mapped Tioga footprint,higher,0.927
+4196,38.13163,-119.33747,USGS mapped Tioga footprint,higher,0.47
+4273,38.25401,-119.77975,USGS mapped Tioga footprint,higher,0.218
+4274,38.25355,-119.6024,USGS mapped Tioga footprint,higher,0.25
+4353,38.37489,-119.86821,Regional elevation/range approximation,lower,0.0
+4354,38.37456,-119.69058,Regional elevation/range approximation,lower,0.0
+4432,38.49571,-119.95695,Regional elevation/range approximation,lower,0.0
+4433,38.49551,-119.77903,Regional elevation/range approximation,lower,0.0
+4512,38.61647,-120.04599,Regional elevation/range approximation,lower,0.0
+4513,38.6164,-119.86778,Regional elevation/range approximation,lower,0.0
+4591,38.73716,-120.13532,Regional elevation/range approximation,lower,0.0
+4592,38.73723,-119.95681,Regional elevation/range approximation,lower,0.0
+4671,38.8578,-120.22493,Regional elevation/range approximation,lower,0.0
+4672,38.85799,-120.04614,Regional elevation/range approximation,lower,0.0
+4673,38.85793,-119.86735,Regional elevation/range approximation,lower,0.0
+4751,38.9787,-120.13576,Regional elevation/range approximation,lower,0.0
+4864,38.96674,-114.31297,Regional elevation/range approximation,lower,0.0
+4910,39.21992,-120.31588,Regional elevation/range approximation,lower,0.0
+5104,39.3242,-114.19514,Regional elevation/range approximation,lower,0.0
+5184,39.449,-114.27554,Regional elevation/range approximation,lower,0.0
+5576,40.10816,-115.58958,Regional elevation/range approximation,lower,0.0
+5703,40.41827,-121.5997,Regional elevation/range approximation,lower,0.0
+5704,40.42049,-121.41708,Regional elevation/range approximation,lower,0.0
+5784,40.54028,-121.51091,Lassen alpine ice-cap minimum hex,moderate,
+5785,40.54237,-121.32798,Regional elevation/range approximation,lower,0.0
+5817,40.46705,-115.47622,Regional elevation/range approximation,lower,0.0
+5897,40.58443,-115.37723,Regional elevation/range approximation,lower,0.0
+6191,41.154,-120.13988,Regional elevation/range approximation,lower,0.0
+6271,41.27483,-120.23253,Regional elevation/range approximation,lower,0.0
+6340,41.37718,-122.17655,Shasta alpine ice-cap minimum hex,moderate,
+6421,41.49972,-122.08755,Regional elevation/range approximation,lower,0.0
+6510,41.63763,-120.3266,Regional elevation/range approximation,lower,0.0
+6751,42.00101,-120.23491,Regional elevation/range approximation,lower,0.0
